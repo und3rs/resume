@@ -10,3 +10,11 @@
 # Digital content development and creation
 - skill: Digital content development and creation
   description: Copy writing, graphic design, web design, front-end web development, print design
+
+
+# Digital content development and creation
+- skill: 언어
+  description: O-Caml, C/C++, C#/WPF, MFC, NASM, MASM32, java, php, python, javascript, html, swift, objective-c
+  
+- skill: OS / 프레임워크
+  description: CentOS, Mono, Lalavel, Django, Redis, MongoDB, MySQL/SQLite/MSSQL, Phalcon, Android
