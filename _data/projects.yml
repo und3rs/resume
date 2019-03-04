@@ -14,3 +14,180 @@
   duration: 2007 &mdash; Present
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+
+
+# Springfield Community Outreach Group
+- project: 소누스 엔터테이먼트
+  role: 개발자
+  duration: 2007 - 2007
+  # url: "#"
+  description: 엔터테이먼트 회사 홈페이지 개발
+  
+  
+- project: 동대문 옷가게 홈페이지 제작
+  role: 개발자
+  duration: 2009 - 2009
+  # url: "#"
+  description: 
+  
+  
+- project: 군포시 문화센터 홈페이지 리뉴얼
+  role: 개발자
+  duration: 2009 - 2009
+  # url: "#"
+  description: ASP to PHP 포팅
+  
+
+- project: 졸업작품 - Virtual Trip
+  role: 개발자
+  duration: 2008 - 2009
+  # url: "#"
+  description: 
+  
+
+- project: 멤버십 제출작품 - GPS 를 이용한 실시간 셔틀버스 추적기
+  role: 개발자
+  duration: 2008 - 2008
+  # url: "#"
+  description: 
+  
+  
+- project: 멤버십 창의과제 - PDA 와 GPS 를 이용한 일기
+  role: 개발자
+  duration: 2008 - 2008
+  # url: "#"
+  description: 
+  
+  
+- project: 삼성종합기술원 - Ambient Wall
+  role: 개발자
+  duration: 2008 - 2008
+  # url: "#"
+  description: 
+  
+  
+- project: 삼성종합기술원 - QR-Code 를 이용한 파일전송 앱
+  role: 개발자
+  duration: 2008 - 2008
+  # url: "#"
+  description: 
+  
+  
+- project: 삼성 생산기술연구소 - SIMS(사출기) 모니터링 툴
+  role: 개발자
+  duration: 2009 - 2009
+  # url: "#"
+  description: WPF
+  
+  
+- project: 신무사연합 회계 프로그램
+  role: 개발자
+  duration: 2009 - 2009
+  # url: "#"
+  description: WPF
+  
+  
+- project: 삼성전자 MSC 사업부 - WorkSpace (DLNA)
+  role: 개발자
+  duration: 2010 - 2010
+  # url: "#"
+  description: WPF
+  
+  
+- project: 삼성전자 MSC 사업부 - AllShare
+  role: 개발자
+  duration: 2011 - 2011
+  # url: "#"
+  description: 
+  
+  
+- project: 삼성전자 MSC 사업부 - AllShare Play(Cloud)
+  role: 개발자
+  duration: 2012 - 2012
+  # url: "#"
+  description: OsX
+  
+  
+- project: 위트스튜디오 - 코디네이터 v1.0
+  role: 코파운더 개발자
+  duration: 2012 - 2014
+  # url: "#"
+  description: 
+  
+  
+- project: 위트스튜디오 - Graphic
+  role: 코파운더 개발자
+  duration: 2012 - 2014
+  # url: "#"
+  description: mono 를 통한 앱 개발
+  
+  
+- project: 위트스튜디오 - 코데네이터 v2.0
+  role: 코파운더 개발자
+  duration: 2012 - 2014
+  # url: "#"
+  description: javascript - psd 라이브러리 개발
+  
+  
+- project: 위트스튜디오 - 싱커
+  role: 코파운더 개발자
+  duration: 2012 - 2014
+  # url: "#"
+  description: 
+  
+  
+- project: 위트스튜디오 - 싱커
+  role: 코파운더 개발자
+  duration: 2012 - 2014
+  # url: "#"
+  description: 
+  
+  
+- project: 라인 플러스 - psd 아카이빙 내부 사이트
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 
+  
+  
+- project: 라인 플러스 - eggs 안드로이드 개발
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 안드로이드 개발 및 키오스크 개발
+  
+  
+- project: 라인 플러스 -라인 프렌즈 사이트 개발
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 
+  
+  
+- project: 라인 플러스 - 음성변조 툴 개발(Parfait)
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 스노우, b612 에서 사용중
+  
+  
+- project: 라인 플러스 - 머신러닝 (제페토)
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 사진 -> 3D 얼굴변환 툴 및 서버 구축 서비스화
+  
+  
+- project: 라인 플러스 - 제페토 오픈 api
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 3D 렌더링 사이트 개발 (Kubernetes 및 어쩌고 저쩌고)
+  
+  
+- project: 스마트카즈
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 차량 관리 툴
