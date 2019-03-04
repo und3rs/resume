@@ -25,7 +25,7 @@
   description: 엔터테이먼트 회사 홈페이지 개발
   
   
-- project: 동대문 옷가게 홈페이지 제작
+- project: 동대문 쇼핑몰(개인 옷가게) 홈페이지 제작
   role: 개발자
   duration: 2009 - 2009
   # url: "#"
@@ -53,60 +53,60 @@
   description: 
   
   
-- project: 멤버십 창의과제 - PDA 와 GPS 를 이용한 일기
+- project: 멤버십 창의과제 - Handover Network Driver
+  role: 개발자
+  duration: 2008 - 2008
+  # url: "#"
+  description: NDIS - Mini port driver (c/c++)
+  
+  
+- project: 삼성전자 종합기술원 - Ambient Wall
   role: 개발자
   duration: 2008 - 2008
   # url: "#"
   description: 
   
   
-- project: 삼성종합기술원 - Ambient Wall
+- project: 삼성전자 종합기술원 - Serface Destktop
   role: 개발자
   duration: 2008 - 2008
   # url: "#"
-  description: 
+  description:  QR-Code 를 이용한 파일전송 앱, 지도 앱
   
   
-- project: 삼성종합기술원 - QR-Code 를 이용한 파일전송 앱
-  role: 개발자
-  duration: 2008 - 2008
-  # url: "#"
-  description: 
-  
-  
-- project: 삼성 생산기술연구소 - SIMS(사출기) 모니터링 툴
+- project: 삼성전자 생산기술연구소 - SIMS(Samsung Injector Monitoring System) 모니터링 툴
   role: 개발자
   duration: 2009 - 2009
   # url: "#"
   description: WPF
   
   
-- project: 신무사연합 회계 프로그램
+- project: 한국신문협회 관리자 프로그램
   role: 개발자
   duration: 2009 - 2009
   # url: "#"
-  description: WPF
+  description: WPF, C#
   
   
-- project: 삼성전자 MSC 사업부 - WorkSpace (DLNA)
+- project: 삼성전자 MSC 사업부 - Kies (DLNA)
   role: 개발자
   duration: 2010 - 2010
   # url: "#"
-  description: WPF
+  description: WPF, UPnP Stack
   
   
-- project: 삼성전자 MSC 사업부 - AllShare
+- project: 삼성전자 MSC 사업부 - AllShare PC SW
   role: 개발자
   duration: 2011 - 2011
   # url: "#"
-  description: 
+  description: Meta Extractor
   
   
-- project: 삼성전자 MSC 사업부 - AllShare Play(Cloud)
+- project: 삼성전자 MSC 사업부 - AllSharePlay(Cloud)
   role: 개발자
   duration: 2012 - 2012
   # url: "#"
-  description: OsX
+  description: OSX, NAT, Windows
   
   
 - project: 위트스튜디오 - 코디네이터 v1.0
