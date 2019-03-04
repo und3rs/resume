@@ -170,16 +170,30 @@
   duration: 2014 - 2017
   # url: "#"
   description: 스노우, b612 에서 사용중
+
+
+- project: 라인 플러스 - 포트라
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 쉐이더
   
   
-- project: 라인 플러스 - 머신러닝 (제페토)
+- project: 스노우 - 머신러닝 (제페토)
   role: 개발자
   duration: 2014 - 2017
   # url: "#"
   description: 사진 -> 3D 얼굴변환 툴 및 서버 구축 서비스화
   
   
-- project: 라인 플러스 - 제페토 오픈 api
+- project: 스노우 - 제페토 서비스 코드
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 퀘스트, 스크래치
+  
+  
+- project: 스노우 - 제페토 오픈 api
   role: 개발자
   duration: 2014 - 2017
   # url: "#"
