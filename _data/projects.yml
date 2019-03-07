@@ -75,11 +75,11 @@
   description: NDIS - Mini port driver (c/c++)
   
   
-- project: Serface TableTop (삼성전자 종합기술원)
+- project: Surface TableTop (삼성전자 종합기술원)
   role: 개발자
   duration: 2008 - 2008
   # url: "#"
-  description:  QR-Code 를 이용한 파일전송 앱, 지도 앱
+  description:  QR-Code 를 이용한 파일전송 앱, 지도 앱 [비디오](portfolio/2008/TableTop/TableTop.mkv)
   
 
 - project: 삼성전자 종합기술원 - Ambient Wall
