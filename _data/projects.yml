@@ -27,40 +27,40 @@
   
 - project: 동대문 쇼핑몰(개인 옷가게) 홈페이지 제작
   role: 개발자 (2인 1조)
-  duration: June, 2006 - July, 2006
+  duration: June, 2006 &mdash; July, 2006
   # url: "#"
   description: 인터넷 쇼핑몰 구축 업체인 메이크샵과 모교인 한양대학교와 산학협력으로 진행된 사업으로서 개발자로 참여 하였습니다. 본 프로젝트는 2인 1조로 진행되었습니다.
   
   
 - project: 군포시 문화센터 홈페이지 리뉴얼
   role: 개발자
-  duration: Nov, 2008 - Dec, 2008
+  duration: Nov, 2008 &mdash; Dec, 2008
   url: "http://www.happygp.or.kr"
   description: ASP 로 되어 있는 홈페이지를 PHP 로 포팅 프로젝트였습니다. 파트타임으로 단독으로 진행하였습니다.
   
 
-- project: 졸업작품 - Virtual Trip
+- project: 가상여행 (졸업작품)
   role: 개발자
-  duration: 2008 - 2009
+  duration: Sep, 2008 &mdash; Aug, 2009
   # url: "#"
-  description: 
+  description: 'Virtual Trip' 이라는 이름에서 알 수 있듯이 가상 여행을 하는 프로그램입니다. 현재의 구글 스트릿 뷰와 같이 WPF 를 통해 3D 공간을 만들었습니다. 이 영상을 HMD(Head Mounted Display)로 통해 출력하여 현실감을 줍니다. 그리고 IR 소자 3개를 이용하여 삼각형 형태로 배치한 기구를 제작하였습니다. 이 불빛을 닌텐도 Wii 의 IR 수신기를 통해 읽어 세 점에 대한 위치정보를 받아 옵니다. 값 분석을 통해 Yaw, Pitch, Roll 의 변화를 감지합니다. 이 변화를 3D 공간에 적용시켜 마치 그곳에 실제로 있는것 같은 착각을 줍니다. 그리고 다리에 위모트를 부착하여 걷는 동작을 인지하여, 가상의 거리를 이동할 수 있게 하였습니다. 지금은 오큘러스와 같은 VR 기기가 많지만, 이 프로젝트를 처음 시작한 시기가 2008년이며 창의적으로 생각해서 진행한 프로젝트였습니다. 이후 머리의 움직임을 좀 더 정확히 트래킹하기 위하여 IR센서에서 자이로 센서로 추적 방식을 변경하였습니다.
   
 
-- project: 멤버십 제출작품 - GPS 를 이용한 실시간 셔틀버스 추적기
+- project: GPS 를 이용한 실시간 셔틀버스 추적기 (멤버십 제출작품)
   role: 개발자
-  duration: 2008 - 2008
+  duration: Jun, 2008 &mdash; Nov, 2008
   # url: "#"
-  description: 
+  description: 소프트웨어 멤버십 출품을 위한 프로젝트로서 현재의 시내버스 위치 추적앱과 유사합니다. 2008년에 진행한 프로젝트로 당시에는 이런 개념이 없었습니다. USB 형태의 GPS 시리얼 모듈과 Wibro 를 노트북에 연결하고, GPS 에서 받아온 위치정보를 메인서버에 보냅니다. Google Map 에서 해당 위치에 마커를 달아 실시간으로 수신자가 위치를 알 수 있도록 해 줍니다. 추후 교내 전시도 하였고 교통공학과 교수님으로부터 제의도 받았었습니다.
   
   
-- project: 멤버십 창의과제 - Handover Network Driver
+- project: Handover Network Driver (멤버십 창의과제)
   role: 개발자
-  duration: 2008 - 2008
+  duration: Mar, 2008 - Jun, 2008
   # url: "#"
   description: NDIS - Mini port driver (c/c++)
   
   
-- project: 삼성전자 종합기술원 - Serface Destktop
+- project: Serface TableTop (삼성전자 종합기술원)
   role: 개발자
   duration: 2008 - 2008
   # url: "#"
@@ -83,7 +83,7 @@
   
 - project: 한국신문협회 관리자 프로그램 (NWFMS)
   role: 개발자
-  duration: 2009 - 2009
+  duration: Nov, 2009 - Dec, 2009
   # url: "#"
   description: WPF, C#
   
@@ -135,13 +135,6 @@
   duration: 2012 - 2014
   # url: "#"
   description: javascript - psd 라이브러리 개발, 쇼핑몰 개발
-  
-  
-- project: 위트스튜디오 - 싱커
-  role: 코파운더 개발자
-  duration: 2012 - 2014
-  # url: "#"
-  description: 
   
   
 - project: 위트스튜디오 - 싱커
