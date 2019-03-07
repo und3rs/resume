@@ -31,7 +31,7 @@ Most of the content configuration will take place in the `/_layouts/resume.html`
 
 ### Publishing to GitHub Pages for free
 
-[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
+[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at [und3rs.github.io/resume](http://und3rs.github.io/resume) (you can rename the repo to resume for your own use if you want it to be available at `und3rs.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
 
 ### Configuring with your own domain name
 
