@@ -18,6 +18,14 @@
 
 
 # Springfield Community Outreach Group
+- project: 리버스엔지니어링
+  role: 개발자
+  duration: Apr, 2005
+  # url: "#"
+  description: 용돈벌이 StartStock
+  
+
+# Springfield Community Outreach Group
 - project: 소누스 엔터테이먼트
   role: 개발자
   duration: Sep, 2007 &mdash; Dec, 2007
@@ -51,6 +59,13 @@
   duration: Jun, 2008 &mdash; Nov, 2008
   # url: "#"
   description: 소프트웨어 멤버십 출품을 위한 프로젝트로서 현재의 시내버스 위치 추적앱과 유사합니다. 2008년에 진행한 프로젝트로 당시에는 이런 개념이 없었습니다. USB 형태의 GPS 시리얼 모듈과 Wibro 를 노트북에 연결하고, GPS 에서 받아온 위치정보를 메인서버에 보냅니다. Google Map 에서 해당 위치에 마커를 달아 실시간으로 수신자가 위치를 알 수 있도록 해 줍니다. 추후 교내 전시도 하였고 교통공학과 교수님으로부터 제의도 받았었습니다.
+
+
+- project: Memorize Game (학교 과제)
+  role: 개발자
+  duration: Jun, 2008
+  # url: "#"
+  description: Ocaml
   
   
 - project: Handover Network Driver (멤버십 창의과제)
@@ -116,11 +131,25 @@
   description: OSX, NAT, Windows
   
   
+- project: 위모트 리모콘
+  role: 개발자
+  duration: 2012 - 2012
+  # url: "#"
+  description: 집에서 컴퓨터로 TV 보다가 제어하려고
+  
+  
 - project: 위트스튜디오 - 코디네이터 v1.0
   role: 코파운더 개발자
   duration: 2012 - 2014
   # url: "#"
   description: 
+  
+  
+- project: 모두의 게임 봇
+  role: 개발자
+  duration: 2012
+  # url: "#"
+  description: 친구하고 내기로
   
   
 - project: 위트스튜디오 - Graphic
