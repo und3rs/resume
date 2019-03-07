@@ -20,23 +20,24 @@
 # Springfield Community Outreach Group
 - project: 소누스 엔터테이먼트
   role: 개발자
-  duration: 2007 - 2007
+  duration: Sep, 2007 &mdash; Dec, 2007
   # url: "#"
-  description: 엔터테이먼트 회사 홈페이지 개발
+  description: 엔터테이먼트 회사인 '소누스이엔티(최대진·50·공연음반영화기획) 논현동 164의16 명성빌딩 304호' 의 의뢰로 회사 소개 홈페이지를 제작하였습니다. 현재는 사업종료 된 것으로 보여집니다.
+  혼자서 맡은 프로젝트로서 개인적으로 디자이너를 파트타임으로 고용하여 성공적으로 개발하였습니다. 회사 소개 페이지와 관리를 위한 CMS 페이지로 구성하였습니다.
   
   
 - project: 동대문 쇼핑몰(개인 옷가게) 홈페이지 제작
-  role: 개발자
-  duration: 2009 - 2009
+  role: 개발자 (2인 1조)
+  duration: June, 2006 - July, 2006
   # url: "#"
-  description: 
+  description: 인터넷 쇼핑몰 구축 업체인 메이크샵과 모교인 한양대학교와 산학협력으로 진행된 사업으로서 개발자로 참여 하였습니다. 본 프로젝트는 2인 1조로 진행되었습니다.
   
   
 - project: 군포시 문화센터 홈페이지 리뉴얼
   role: 개발자
-  duration: 2009 - 2009
-  # url: "#"
-  description: ASP to PHP 포팅
+  duration: Nov, 2008 - Dec, 2008
+  url: "http://www.happygp.or.kr"
+  description: ASP 로 되어 있는 홈페이지를 PHP 로 포팅 프로젝트였습니다. 파트타임으로 단독으로 진행하였습니다.
   
 
 - project: 졸업작품 - Virtual Trip
@@ -60,18 +61,18 @@
   description: NDIS - Mini port driver (c/c++)
   
   
-- project: 삼성전자 종합기술원 - Ambient Wall
-  role: 개발자
-  duration: 2008 - 2008
-  # url: "#"
-  description: 
-  
-  
 - project: 삼성전자 종합기술원 - Serface Destktop
   role: 개발자
   duration: 2008 - 2008
   # url: "#"
   description:  QR-Code 를 이용한 파일전송 앱, 지도 앱
+  
+
+- project: 삼성전자 종합기술원 - Ambient Wall
+  role: 개발자
+  duration: Sep, 2009 - Nov, 2009
+  # url: "#"
+  description: 
   
   
 - project: 삼성전자 생산기술연구소 - SIMS(Samsung Injector Monitoring System) 모니터링 툴
@@ -81,11 +82,18 @@
   description: WPF
   
   
-- project: 한국신문협회 관리자 프로그램
+- project: 한국신문협회 관리자 프로그램 (NWFMS)
   role: 개발자
   duration: 2009 - 2009
   # url: "#"
   description: WPF, C#
+  
+  
+- project: 위트스튜디오 홈페이지 제작
+  role: 개발자
+  duration: Nov, 2009 - Dec, 2009
+  # url: "#"
+  description: 위트스튜디오 홈페이지 제작
   
   
 - project: 삼성전자 MSC 사업부 - Kies (DLNA)
