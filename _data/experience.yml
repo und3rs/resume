@@ -48,11 +48,20 @@
   summary: 대안언어 축제는 에자일로 유명한 김창준님을 주축으로 '대안언어'를 서로 공유하고 정보를 나누는 컨퍼런스입니다. 대안언어에 많은 관심이 있어서 2007년 준비위원회로 활동을 하였습니다. 안타깝게도 준비 기간 중 취소되었습니다.
   
 
+
+  # Communications Coordinator
+- company: 인턴십
+  position: 개발자
+  duration: Jan, 2009 &mdash; Feb, 2009
+  summary: 키오스크 모니터링 하기위한 Network 기반의 logger 개발
+  
+  
   # Communications Coordinator
 - company: 디지털미디어 고등학교
   position: 강연
   duration: Oct, 2009
   summary: 한국 디지털미디어 고등학교의 초청을 받아, 좋은 개발자가 되는 방법에 대한 강연을 하였습니다.
+  
   
 
 # Communications Coordinator
