@@ -1,0 +1,56 @@
+# Individual Projects
+
+- project: 리버스엔지니어링
+  role: 개발자
+  duration: Apr, 2005
+  # url: "#"
+  description: 용돈벌이 StartStock
+  
+
+- project: 가상여행 (졸업작품)
+  role: 개발자
+  duration: Sep, 2008 &mdash; Aug, 2009
+  # url: "#"
+  description: Virtual Trip 이라는 이름에서 알 수 있듯이 가상 여행을 하는 프로그램입니다. 현재의 구글 스트릿 뷰와 같이 WPF 를 통해 3D 공간을 만들었습니다. 이 영상을 HMD(Head Mounted Display)로 통해 출력하여 현실감을 줍니다. 그리고 IR 소자 3개를 이용하여 삼각형 형태로 배치한 기구를 제작하였습니다. 이 불빛을 닌텐도 Wii 의 IR 수신기를 통해 읽어 세 점에 대한 위치정보를 받아 옵니다. 값 분석을 통해 Yaw, Pitch, Roll 의 변화를 감지합니다. 이 변화를 3D 공간에 적용시켜 마치 그곳에 실제로 있는것 같은 착각을 줍니다. 그리고 다리에 위모트를 부착하여 걷는 동작을 인지하여, 가상의 거리를 이동할 수 있게 하였습니다. 지금은 오큘러스와 같은 VR 기기가 많지만, 이 프로젝트를 처음 시작한 시기가 2008년이며 창의적으로 생각해서 진행한 프로젝트였습니다. 이후 머리의 움직임을 좀 더 정확히 트래킹하기 위하여 IR센서에서 자이로 센서로 추적 방식을 변경하였습니다.
+  
+
+- project: GPS 를 이용한 실시간 셔틀버스 추적기 (멤버십 제출작품)
+  role: 개발자
+  duration: Jun, 2008 &mdash; Nov, 2008
+  # url: "#"
+  description: 소프트웨어 멤버십 출품을 위한 프로젝트로서 현재의 시내버스 위치 추적앱과 유사합니다. 2008년에 진행한 프로젝트로 당시에는 이런 개념이 없었습니다. USB 형태의 GPS 시리얼 모듈과 Wibro 를 노트북에 연결하고, GPS 에서 받아온 위치정보를 메인서버에 보냅니다. Google Map 에서 해당 위치에 마커를 달아 실시간으로 수신자가 위치를 알 수 있도록 해 줍니다. 추후 교내 전시도 하였고 교통공학과 교수님으로부터 제의도 받았었습니다.
+
+
+- project: Memorize Game
+  role: 개발자
+  duration: Jun, 2008
+  # url: "#"
+  description: Ocaml
+  
+  
+- project: Handover Network Driver (멤버십 창의과제)
+  role: 개발자
+  duration: Mar, 2008 - Jun, 2008
+  # url: "#"
+  description: NDIS - Mini port driver (c/c++)
+  
+    
+- project: 위모트 리모콘
+  role: 개발자
+  duration: 2012 - 2012
+  # url: "#"
+  description: 집에서 컴퓨터로 TV 보다가 제어하려고
+  
+  
+- project: 모두의 게임 봇
+  role: 개발자
+  duration: 2012
+  # url: "#"
+  description: 친구하고 내기로
+
+  
+- project: 스마트카즈
+  role: 개발자
+  duration: 2014 - 2017
+  url: https://caz.smartholic.com
+  description: 차량 관리 툴
