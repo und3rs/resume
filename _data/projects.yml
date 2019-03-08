@@ -178,7 +178,13 @@
   duration: 2014 - 2017
   # url: "#"
   description: 
-  
+
+
+- project: 라인 플러스 - 라인 크리에이터스 스티커 (https://store.line.me)
+  role: 개발자
+  duration: 2014 - 2017
+  # url: "#"
+  description: 
   
 - project: 라인 플러스 - eggs 안드로이드 개발
   role: 개발자
@@ -187,7 +193,7 @@
   description: 안드로이드 개발 및 키오스크 개발
   
   
-- project: 라인 플러스 -라인 프렌즈 사이트 개발
+- project: 라인 플러스 -라인 프렌즈 스토어 개발
   role: 개발자
   duration: 2014 - 2017
   # url: "#"
