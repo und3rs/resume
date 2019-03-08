@@ -154,30 +154,31 @@
 
 - project: 위트스튜디오 - 핸들러
   role: 코파운더 개발자
-  duration: 2012 - 2014
+  duration: Apr, 2013 - June, 2013
   # url: "#"
   description: 
   
   
 - project: 위트스튜디오 - Graphic
   role: 코파운더 개발자
-  duration: 2012 - 2014
+  duration: Nov, 2011 &mdash; Feb, 2013
   # url: "#"
-  description: mono 를 통한 앱 개발
+  description: mono 를 통한 앱 개발 (OsX, Android), Server 개발, 랜딩 페이지 개발(ASP.NET)
   
   
 - project: 위트스튜디오 - 어시스터
   role: 코파운더 개발자
   duration: 2012 - 2014
   # url: "#"
-  description: javascript - psd 라이브러리 개발, 쇼핑몰 개발
+  description: javascript - psd 라이브러리 개발, 스토어 개발, 인증서버 개발, 통계페이지 등 CMS, ASP.NET, MS-SQL, html, javascript, wordpress, json, c#
+  
   
   
 - project: 위트스튜디오 - 싱커
   role: 코파운더 개발자
-  duration: 2012 - 2014
+  duration: Aug, 2013 - Oct, 2013
   # url: "#"
-  description: 
+  description: WPF, mono-framework, c#, Mac OsX, Windows
   
   
 - project: 라인 플러스 - psd 아카이빙 내부 사이트
