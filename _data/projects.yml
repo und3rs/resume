@@ -150,6 +150,13 @@
   duration: 2012
   # url: "#"
   description: 친구하고 내기로
+
+
+- project: 위트스튜디오 - 핸들러
+  role: 코파운더 개발자
+  duration: 2012 - 2014
+  # url: "#"
+  description: 
   
   
 - project: 위트스튜디오 - Graphic
@@ -159,7 +166,7 @@
   description: mono 를 통한 앱 개발
   
   
-- project: 위트스튜디오 - 코데네이터 v2.0
+- project: 위트스튜디오 - 어시스터
   role: 코파운더 개발자
   duration: 2012 - 2014
   # url: "#"
