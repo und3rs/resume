@@ -13,7 +13,8 @@
   corp: SNOW corp.
   role: 퀘스트, 스크래치 개발
   duration: Jan, 2019 - Feb, 2019
-  # url: "#"
+  url: https://play.google.com/store/apps/details?id=me.zepeto.main
+  youtube: https://www.youtube.com/embed/n0llsGlXT_U
   description: 제페토 내 게임 서비스
   skills: NodeJS, MongoDB, Redis, GameSparks
 
@@ -118,11 +119,11 @@
   skills: Xamarin Studio(MonoDevelop), C#, MySQL, CentOS, Apache  
   
 
-- project: 코디네이터
+- project: 코디네이터 2.0
   corp: 위트스튜디오
   role: PSD 파서 및 UI 개발
   duration: Nov, 2012 &mdash; Dec, 2013
-  url: https://youtu.be/w2_VBRBLllc?list=UUQ9_lJbli2JykP1phzIDDfg
+  url: https://www.youtube.com/embed/w2_VBRBLllc?list=UUQ9_lJbli2JykP1phzIDDfg
   description: 코디네이터는 어도비 포토샵과 유사한 UI를 가진 그래픽 프로그램입니다. 하지만 앱 개발에 필요한 각종 UI 개발을 포토샵으로 하려면 많은 노력이 필요합니다. 그리고 수정 작업을 하는 것 역시 만만치 않습니다. 코디네이터는 이런 단점을 보완할 수 있는 디자이너용 프로그램입니다. 저는 포토샵 파일(.psd) parser 를 javascript로 개발하였으며 UI 일부 개발을 담당하였습니다.
   skills: WPF, C#, Javascript, Photoshop *.psd Spec
   
