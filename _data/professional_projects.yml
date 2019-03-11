@@ -1,21 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
-
-
 
 - project: 회사 홈페이지 제작
   corp: 소누스이엔티
@@ -147,7 +132,7 @@
   duration: Feb, 2014 &mdash; May, 2014
   url: https://witstudio.tistory.com/257
   description: 싱커는 APNG 를 이용하여 데스크탑 화면을 스트리밍 해주는 프로그램입니다. 
-  skills: WPF, C#, APNG
+  skills: WPF, C#, aPNG
 
 
 
@@ -157,65 +142,93 @@
 
   
   
-- project: 라인 플러스 &mdash; psd 아카이빙 내부 사이트
+- project: 이미지 리소스 Archiving 사이트 구축
+  corp: LINE+
+  role: 초기 1인 개발 후 유지보수 이관
+  duration: Aug, 2014 &mdash; Sep, 2014
+  description: 디자인 팀에서 의뢰하여 진행한 프로젝트 입니다. 디자이너들은 작업한 리소스를 공용 스토리지에 무작위로 저장하고 있었습니다. 태그를 달고 검색이 가능하며, 전체 목록을 볼 수 있는 사이트가 필요하여 진행하였습니다. 리소스를 보고 검색할 수 있는 사이트와 파일 시스템을 감시하고 목록을 관리하는 시스템부로 이루어져 있습니다.
+  skills: web, C#, Resource Meta Extracting, Javascript
+
+
+
+- project: 라인 크리에이터스
+  corp: LINE+
+  url: https://store.line.me
+  role: Rest-API, Redis, Sphinx, MySQL 등 서버 환경 구성 및 구축. 보안 및 API 서비스 이슈 대응. API 개발을 담당하였습니다.
+  duration: Oct, 2014 &mdash; Dec, 2015
+  description: 라인 크리에이터스는 메신저 라인의 커스텀 스티커 제작 및 판매를 위한 포털 사이트입니다. 사용자는 이곳을 통해서 자신이 만든 스티커를 등록하고 판매할 수 있습니다.
+  skills: ASP, MSSQL, CentOS, PHP, MySQL, Sphinx, Security, HA, Redis
+
+  
+- project: egg 카메라 앱
+  corp: LINE+
+  role: 안드로이드 앱, CMS, 키오스크 개발을 담당하였습니다.
+  duration: Jan, 2016 &mdash; Jly, 2016
+  url: https://linepluscorp.com/pr/news/ko/2016/1452
+  description: egg 는 카메라 앱 입니다. B612 나 스노우 카메라앱과 유사합니다.
+  skills: java, Android, php, MySQL, nginx
+
+
+  
+- project: 컬러링 북 앱
+  corp: LINE+
   role: 개발자
-  duration: 2014 - 2017
-  # url: "#"
-  description: 
+  duration: Aug, 2016 &mdash; Sep, 2016
+  description: 테스트 프로젝트로 컬러링 하는 앱입니다.
+  skills: Android
+
+  
+- project: 라인 프렌즈 스토어 리뉴얼
+  corp: LINE+
+  role: 개발자
+  duration: Sep, 2016 &mdash; Oct, 2016
+  url: https://store.linefriends.co.kr/
+  description: 라인 프렌즈 스토어 개편 프로젝트. 완료 시점에 인수인계.
+  skills: wordpress, Redis, MySQL, nginx, php
+  
+  
+- project: 음성변조 툴 개발(Parfait)
+  corp: LINE+
+  role: 1인 개발. iOS 와 Android 용 라이브러리 개발
+  duration: Nov, 2016 &mdash; Jan, 2017
+  url: 
+  description: 음성변조 엔진. 스노우, b612 에서 사용중, DSP
+  skills: DSP, C++, Android
 
 
-- project: 라인 플러스 &mdash; 라인 크리에이터스 스티커 (https://store.line.me)
-  role: 개발자
-  duration: 2014 - 2017
-  # url: "#"
-  description: 
-  
-- project: 라인 플러스 &mdash; eggs 안드로이드 개발
-  role: 개발자
-  duration: 2014 - 2017
-  # url: "#"
-  description: 안드로이드 개발 및 키오스크 개발
+- project: PORTRA 카메라 앱
+  role: 픽셀 쉐이더, 필터 개발
+  corp: SNOW
+  duration: Feb, 2017 - Aug, 2017
+  url: https://play.google.com/store/apps/details?id=com.playlist.portra
+  description: 카메라 앱입니다.
+  skills: Pixel shader, Lua Script
   
   
-- project: 라인 플러스 &mdash; 프렌즈 스토어 개발
-  role: 개발자
-  duration: 2014 - 2017
-  # url: "#"
-  description: 
-  
-  
-- project: 라인 플러스 &mdash; 음성변조 툴 개발(Parfait)
-  role: 개발자
-  duration: 2014 - 2017
-  # url: "#"
-  description: 스노우, b612 에서 사용중, DSP
-
-
-- project: 라인 플러스 &mdash; 포트라
-  role: 개발자
-  duration: 2014 - 2017
-  # url: "#"
-  description: 쉐이더
-  
-  
-- project: 스노우 &mdash; 머신러닝 (제페토)
-  role: 개발자
-  duration: 2014 - 2017
-  # url: "#"
+- project: Zepeto Brain
+  corp: SNOW
+  role: 전체 1인 개발로서, 사진을 Image 로 추출하는 Machine 개발. Kubernets 를 통한 클러스터 구성. Service Platform 개발 등 전체 다 함.
+  duration: Sep, 2017 - Dec, 2018
+  url: https://play.google.com/store/apps/details?id=me.zepeto.main
   description: 사진 -> 3D 얼굴변환 툴 및 서버 구축 서비스화
+  skills: Tensorflow, Python, Kubernetes, Redis, HA
   
   
-- project: 스노우 &mdash; 제페토 서비스 코드
-  role: 개발자
-  duration: 2014 - 2017
+- project: Zepeto Service
+  corp: SNOW
+  role: 퀘스트, 스크래치 개발
+  duration: Jan, 2019 - Feb, 2019
   # url: "#"
-  description: 퀘스트, 스크래치
+  description: 제페토 내 게임 서비스
+  skills: NodeJS, MongoDB, Redis, GameSparks
   
   
-- project: 스노우 &mdash; 제페토 오픈 api
-  role: 개발자
-  duration: 2014 - 2017
+- project: 제페토 오픈 api
+  corp: SNOW
+  role: 1인 개발
+  duration: Mar, 2019 - Now
   # url: "#"
-  description: 3D 렌더링 사이트 개발 (Kubernetes 및 어쩌고 저쩌고)
+  description: 제페토 Open API 로서, 3D 모델을 이미지로 렌더링 해 주는 기능이 핵심임
+  skills: Kubernetes, Docker, CentOS, Unity, Python, Redis, Django
   
   
