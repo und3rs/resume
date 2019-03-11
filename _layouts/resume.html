@@ -200,7 +200,7 @@
         {% for association in site.data.associations %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ project.year }}</h4>
+          <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ association.year }}</h4>
           <h4 class="resume-item-details" itemprop="description">{{ association.role }}</h4>
           <p class="resume-item-copy">{{ association.summary }}</p>
         </div>
