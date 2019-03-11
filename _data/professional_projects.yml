@@ -32,6 +32,7 @@
   corp: SNOW corp.
   duration: Feb, 2017 - Aug, 2017
   url: https://play.google.com/store/apps/details?id=com.playlist.portra
+  youtube: https://www.youtube.com/embed/tPCdqD4pWVw
   description: 카메라 앱입니다.
   skills: Pixel shader, Lua Script
 
@@ -102,6 +103,7 @@
   role: 컴포넌트 단위 개발 및 스토어 개발
   duration: Mar, 2013 &mdash; May, 2014
   url: https://www.youtube.com/watch?v=TZcrmyaj2XA
+  youtube: https://youtu.be/hpy2yhDJksU
   description: Assistor PS 는 디자이너들이 포토샵에서 자주 쓰지만 불편한 것들을 편하게 도와주는 데스크탑 프로그램입니다. Assistor PS 의 일부 기능과 스토어 사이트를 구축을 담당하였습니다.
   skills: C#, MS Azure, Apache, ASP.NET, Paygate, MS-SQL  
 
