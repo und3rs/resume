@@ -1,24 +1,28 @@
 # Jobs
   
 - company: SNOW corp.
+  ci: ./corp/snow.png
   position: Developer
   duration:  May, 2017  &mdash; Now
   summary: 
   
   
 - company: LINE+ corp.
+  ci: ./corp/line.jpg
   position: Developer
   duration:  Aug, 2014  &mdash; Apr, 2017
   summary: M&A  
   
   
 - company: Wit studio
+  ci: ci: ./corp/witstudio.png
   position: Co-Founder / Development Manager
   duration:  Nov, 2012  &mdash; Jly, 2014
   summary: 스타트업 회사
   
   
 - company: Samsung Electronics corp. - Media Solution Center
+  ci: ./corp/samsung.jpg
   position: Software Developer (S3)
   duration:  Jan, 2010  &mdash; Oct, 2012
   summary: 첫 회사로 개발자로서 일을 하였습니다.
