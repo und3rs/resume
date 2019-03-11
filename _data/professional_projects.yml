@@ -23,6 +23,7 @@
   role: 전체 1인 개발로서, 사진을 Image 로 추출하는 Machine 개발. Kubernets 를 통한 클러스터 구성. Service Platform 개발 등 전체 다 함.
   duration: Sep, 2017 - Dec, 2018
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
+  cover: portfolio/2018/zepeto/sample.png
   description: 사진 -> 3D 얼굴변환 툴 및 서버 구축 서비스화
   skills: Tensorflow, Python, Kubernetes, Redis, HA
   
