@@ -105,119 +105,119 @@
   duration: Mar, 2013 &mdash; May, 2014
   url: https://www.youtube.com/watch?v=TZcrmyaj2XA
   youtube: https://www.youtube.com/embed/TZcrmyaj2XA
-  description: Assistor PS 는 디자이너들이 포토샵에서 자주 쓰지만 불편한 것들을 편하게 도와주는 데스크탑 프로그램입니다. Assistor PS 의 일부 기능과 스토어 사이트를 구축을 담당하였습니다.
-  role: 컴포넌트 단위 개발 및 스토어 개발
+  description: Assistor PS 는 디자이너들이 포토샵에서 자주 쓰지만 불편한 것들을 편하게 도와주는 데스크탑 프로그램입니다.
+  role: 저는 컴포넌트 단위의 기능들을 개발하였습니다. 그리고 판매를 위한 스토어를 전담하여 개발하였습니다.
   skills: C#, MS Azure, Apache, ASP.NET, Paygate, MS-SQL  
 
 
 - project: Grappic App
   corp: 위트스튜디오
-  role: 1인 개발
   duration: Dec, 2012 &mdash; Feb, 2013
   url: https://witstudio.tistory.com/category/Grappic
   youtube: https://www.youtube.com/embed/EW2h7dz6Hhw
-  description: mono 를 통한 앱 개발 (OsX, Android), Server 개발, 랜딩 페이지 개발(ASP.NET)
-  skills: Xamarin Studio(MonoDevelop), C#, MySQL, CentOS, Apache  
+  description: 디자이너들이 앱을 디자인 하기 위해서 수많은 레퍼런스들을 참고합니다. Grappic은 앱스토어에 등록된 모든 앱들의 디자인을 정리해서 보여주는 디자이너를 위한 앱 입니다.
+  role: Xamarin 을 이용하여 iOS 와 Android 앱을 혼자서 개발하였습니다. 그리고 그에 필요한 server 와 Rest API 를 개발하였습니다.
+  skills: Xamarin Studio(Mono Develop), C#, MySQL, CentOS, Apache  
   
 
 - project: 코디네이터 2.0
   corp: 위트스튜디오
-  role: PSD 파서 및 UI 개발
-  duration: Nov, 2012 &mdash; Dec, 2013
   youtube: https://www.youtube.com/embed/w2_VBRBLllc?list=UUQ9_lJbli2JykP1phzIDDfg
   url: https://witstudio.tistory.com/149
-  description: 코디네이터는 어도비 포토샵과 유사한 UI를 가진 그래픽 프로그램입니다. 하지만 앱 개발에 필요한 각종 UI 개발을 포토샵으로 하려면 많은 노력이 필요합니다. 그리고 수정 작업을 하는 것 역시 만만치 않습니다. 코디네이터는 이런 단점을 보완할 수 있는 디자이너용 프로그램입니다. 저는 포토샵 파일(.psd) parser 를 javascript로 개발하였으며 UI 일부 개발을 담당하였습니다.
+  duration: Nov, 2012 &mdash; Dec, 2013
+  description: 코디네이터는 어도비 포토샵과 유사한 UI를 가진 그래픽 프로그램입니다. 하지만 앱 개발에 필요한 각종 UI 개발을 포토샵으로 하려면 많은 노력이 필요합니다. 그리고 수정 작업을 하는 것 역시 만만치 않습니다. 코디네이터는 이런 단점을 보완할 수 있는 디자이너용 프로그램입니다.
+  role: 저는 UI 일부를 담당하였습니다. 그리고 범용성을 위해 javascript 로 포토샵 파일(.psd) parser 를 개발하였습니다.
   skills: WPF, C#, Javascript, Photoshop *.psd Spec
   
   
 - project: AllShare Play
   corp: 삼성전자 MSC 사업부
-  role: PC용 개발
   duration: Oct, 2011 &mdash; Oct, 2012
   url: https://www.samsung.com/us/2012-allshare-play/
-  description: AllShare 의 Cloud 버전이며 PC 용을 개발하였습니다. 외부 업체에서 만든 NAT Library 를 이용한 아키텍쳐 구현부터, 각종 Media 에서 Thumbnail 등의 정보를 추출하는 Library 개발, MacOS 용으로 포팅 등을 담당하였습니다.
+  description: AllShare 의 Cloud 버전으로, 같은 네트워크 망이 아닌 다른 망에서도 사용 가능한 AllShare 입니다.
+  role: 저는 외부 업체에서 만든 NAT Library 를 이용한 아키텍쳐 구현부터, 각종 Media 에서 Thumbnail 등의 정보를 추출하는 Library 개발을 전담하였습니다. 그리고 MacOS 용으로 포팅을 하였습니다.
   skills: WPF, UPnP (DLNA), C#, Java, OSX, MFC/C++
   
   
 - project: AllShare PC SW
   corp: 삼성전자 MSC 사업부
-  role: DLNA Engine 개발
   duration: Dec, 2010 &mdash; Sep, 2011
   url: https://www.youtube.com/watch?v=xBhFE4vzpFE
-  description: DLNA 의 DMC, DMS, DMP 기능을 모두 탑제한 PC 소프트웨어 입니다. 당시 연구소에서 만든 DLNA 스택을 사용하였는데 문제가 너무 많아 혼자서 직접 DLNA 스택을 다시 개발하였고, 이 스택이 현재까지도 삼성에서 쓰이고 있는 것으로 알고 있습니다. UI 를 제외한 나머지 DLNA Engine 개발을 담당하였습니다.
+  description: DLNA 의 DMC, DMS, DMP 기능을 모두 탑제한 PC 소프트웨어 입니다.
+  role: 당시 연구소에서 만든 DLNA 스택을 사용하였는데 문제가 너무 많아 혼자서 직접 DLNA 스택을 다시 개발하였고, 이 스택이 현재까지도 삼성에서 쓰이고 있는 것으로 알고 있습니다. UI 를 제외한 나머지 DLNA Engine 및 Library 개발을 전담하였습니다.
   skills: WPF, UPnP (DLNA), C#, Java
   
   
 - project: Kies PC software
   corp: 삼성전자 MSC 사업부
-  role: 유지보수
   duration: Jan, 2010 &mdash; Nov, 2010
   url: https://www.samsungsvc.co.kr/online/faqView.do?domainId=NODE0000033866&node_Id=NODE0000124882&faqId=KNOW0000002908
-  description: 사내 프로젝트로서 Kies 내 DLNA 기능을 유지보수 하였습니다.
+  description: Kies 는 DLNA를 포함하여 사진, 영상 편집, 휴대폰과 PC 간 파일 복사 등 휴대폰과 관련된 많은 기능을 제공하는 통합 프로그램입니다.
+  role: 저는 DLNA 파트 소속으로 이와 관련된 기능을 유지보수 하였습니다.
   skills: WPF, UPnP (DLNA), C#
   
   
 - project: 홈페이지 제작
   corp: 위트스튜디오
-  role: 코파운더 / 개발
   duration: Nov, 2009 &mdash; Dec, 2009
-  description: 코파운더로서 3명이서 함께 팀빌딩을 하였습니다. 이때 회사 홈페이지 개발을 하였습니다.
+  description: 법인설립 이전에 지인 3명이서 함께 팀 빌딩을 하였습니다.
+  role: 회사 홈페이지 개발을 하였습니다.
   skills: html, javascript, MySQL, CentOS
 
 
 - project: 한국신문협회 관리자 프로그램 (NWFMS)
   corp: 한국신문협회
-  role: UI 개발 및 데이터 바인딩
   duration: Nov, 2009 &mdash; Dec, 2009
-  description: 파트타임 프로젝트로서 기존 Visual C++ 로 구현된 관리자 프로그램을 WPF 로 다시 재작하는 일이었습니다. 신문협회 내부적으로 사용하는 프로그램입니다.
+  description: 지인 3명이서 함께 한 외주 프로젝트로서 기존 Visual C++ 로 구현된 관리자 프로그램을 WPF 로 다시 재작하는 일이었습니다. 신문협회 내부적으로 사용하는 프로그램입니다.
+  role: 저는 다른 개발자 1명과 함께 UI 개발 및 데이터 바인딩 작업을 하였습니다.
   skills: WPF, C#
 
   
 - project: SIMS (Samsung Injector Monitoring System)
   corp: 삼성전자 생산기술 연구소 (Samsung Manufacturing Technology Center)
-  role: 표, 차트, 그래프 컴퍼넌트 개발
   duration: Aug, 2009 &mdash; Dec, 2009
-  description: 사출기 모니터링 시스템으로서 DB 에서 각종 정보를 받아 표와 차트, 그래프로 보여주는 모니터링 툴을 개발하였습니다. 저는 데이터를 각종 차트와 표로 보여주는 모듈을 개발하였습니다.
+  description: SMIS는 사출기 모니터링 시스템으로서 DB 에서 각종 정보를 받아 표와 차트, 그래프로 보여주는 모니터링 툴입니다. 개발자 1명과 함께 진행한 프로젝트입니다.
+  role: 저는 데이터를 각종 차트와 표로 보여주는 모듈을 개발하였습니다.
   skills: WPF, C#, MSSQL
   
 
 - project: Ambient Wall
   corp: 삼성전자 종합기술원 (Samsung Advanced Institute of Technology)
-  role: 지도 기능 구현
   duration: Apr, 2009 &mdash; Jun, 2009
-  description: 삼성 2009년 기술전으로서 거실의 한쪽 벽면 전체가 스크린인 공간을 만드는 프로젝트였습니다. 그것을 이용하여 화상통화나 날씨정보, 지도 등을 볼 수 있습니다. 그리고 모든 인터렉션은 모션인식을 통해서 이루어집니다. 저는 모션정보를 받아서 지도를 제어하는 부분을 담당하였습니다.
+  description: 삼성 소프트웨어 멤버십을 통해 참여를 지원하게 되었습니다. Ambient Wall 은 2009년 삼성 기술전 출품용 프로젝트입니다. 거실의 한쪽 벽면 전체가 스크린으로 되어있고 이것을 통해 화상통화나 날씨정보, 지도 등을 볼 수 있습니다. 그리고 모든 인터렉션은 모션인식을 통해서 이루어집니다.
+  role: 저는 모션정보를 받아서 지도를 제어하고 보여주는 부분을 담당하였습니다.
   skills: C#, WPF
   
     
 - project: Surface TableTop
   corp: 삼성전자 종합기술원 (Samsung Advanced Institute of Technology)
-  role: QR-Code 를 이용한 파일 송수신 파트, Shacker 제어기능 구현
   duration: Jun, 2008 &mdash; Sep, 2008
   url: portfolio/2008/TableTop
-  description: 삼성 2008 기술전으로서 탁상용 컴퓨터를 위한 컨텐츠를 개발하는 프로젝트였습니다. 저는 QR-Code 를 이용한 파일을 송수신하는 앱과 데스크탑 서버를 개발하였습니다. 그리고 음악의 비트를 Shacker 라는 진동기로 표현해주는 기능을 개발하였습니다.
+  description: 삼성 소프트웨어 멤버십을 통해 참여를 지원하게 되었습니다. Tabletop 은 2008년 삼성 기술전 출품용 프로젝트로 탁상용 컴퓨터를 위한 컨텐츠를 개발하는 프로젝트였습니다.
+  role: 저는 QR-Code 를 이용한 파일을 송수신하는 앱과 데스크탑 서버를 개발하였습니다. 그리고 음악의 비트를 Shacker 라는 바이브레이터로 표현해주는 기능을 개발하였습니다.
   skills: Windows Mobile, .NET, Bluetooth
   
   
 - project: 군포시 문화센터 홈페이지 리뉴얼
-  corp: 군포시
-  role: 1인 개발
+  corp: 경기도 군포시
   duration: Nov, 2008 &mdash; Dec, 2008
   url: http://www.happygp.or.kr
-  description: ASP 로 되어 있는 홈페이지를 PHP 로 포팅하는 프로젝트였습니다. 파트타임으로 단독으로 진행하였습니다.
+  description: ASP 로 되어 있는 홈페이지를 PHP 로 포팅하는 프로젝트였습니다.
+  role: 파트타임으로 단독 진행하였습니다.
   skills: ASP, PHP
 
 
 - project: 회사 홈페이지 제작
   corp: 소누스이엔티
-  role: 개발
   duration: Sep, 2007 &mdash; Dec, 2007
-  description: 엔터테이먼트 회사인 &quot;소누스이엔티(최대진 공연음반영화기획) 논현동 164의16 명성빌딩 304호&quot; 의 의뢰로 회사 소개 홈페이지를 제작하였습니다. 현재는 사업종료 된 것으로 보여집니다. 혼자서 맡은 프로젝트로서 개인적으로 디자이너를 파트타임으로 고용하여 성공적으로 개발하였습니다. 회사 소개 페이지와 관리를 위한 CMS 페이지로 구성하였습니다.
+  description: 엔터테이먼트 회사인 &quot;소누스이엔티(최대진 공연음반영화기획) 논현동 164의16 명성빌딩 304호&quot; 의 회사 소개 홈페이지입니다. 현재는 회사가 존재하지 않는 것으로 보여집니다.
+  role: 혼자서 맡은 프로젝트로서 개인적으로 디자이너를 파트타임으로 고용하여 진행하였습니다. 회사 소개 페이지와 관리를 위한 CMS 페이지도 제작하였습니다.
   skills: html, javascript, ajax, MySQL
 
 
 - project: 동대문 소상공인 쇼핑몰 제작
   corp: 한양대학교
-  role: 개발 (2인 1조)
   duration: June, 2006 &mdash; July, 2006
-  description: 인터넷 쇼핑몰 구축 업체인 메이크샵과 모교인 한양대학교와 산학협력으로 진행된 사업으로서 개발자로 참여 하였습니다. 본 프로젝트는 저 포함 개발자 2인으로 진행되었습니다.
+  description: 인터넷 쇼핑몰 구축 업체인 메이크샵과 모교인 한양대학교와 산학협력으로 진행된 사업입니다.
+  role: 두 명이서 메이크샵을 이용하여 쇼핑몰을 구축하였습니다.
   skills: html, javascript, Makeshop
