@@ -188,6 +188,7 @@
           <h3 class="resume-item-title" itemprop="name">{% if activation.url %}<a href="{{ activation.url }}">{{ activation.organization }}</a>{% else %}{{ activation.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ activation.year }}</h4>
           <h4 class="resume-item-details" itemprop="description">{{ activation.role }}</h4>
+          {% if activation.cover %}<img src="{{ activation.cover }}" style="width:100%"/>{% endif %}
           <p class="resume-item-copy">{{ activation.summary }}</p>
         </div>
         {% endfor %}
