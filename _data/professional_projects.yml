@@ -1,32 +1,32 @@
 # Projects
 
-- project: 제페토 오픈 api
+- project: 제페토 Open API
   corp: SNOW corp.
-  role: 1인 개발
   duration: Mar, 2019 - Now
   # url: "#"
-  description: 제페토 Open API 로서, 3D 모델을 이미지로 렌더링 해 주는 기능이 핵심임
-  skills: Kubernetes, Docker, CentOS, Unity, Python, Redis, Django
+  description: 외부에서 제페토의 서비스를 이용할 수 있도록 제공하는 글로벌 API 입니다. 3D 인 아바타를 렌더링하여 이미지를 제공해주는 API 가 포함되어 있습니다. 이를 위해서 kubernetes 기반의 클러스터에 Headless GPU 서버들로 구성되어 있습니다.
+  role: 비싼 GPU 리소스를 효율적으로 활용하기 위한 아키텍쳐, 클러스터 구축, Headless GPU 렌더링 환경구축 등 모든 분야를 혼자서 담당하고 있습니다. 
+  skills: Kubernetes, Docker, CentOS, Unity, Python, Redis, Django, HA
   
   
-- project: Zepeto Service
+- project: 제페토 서비스
   corp: SNOW corp.
-  role: 퀘스트, 스크래치 개발
   duration: Jan, 2019 - Feb, 2019
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   youtube: https://www.youtube.com/embed/n0llsGlXT_U
-  description: 제페토 내 게임 서비스
+  description: 제페토는 나를 닮은 3D 아바타라는 컨셉의 글로벌 앱 입니다. 구글 플레이와 앱스토어에서 누적 수천만 다운로드를 달성하고 있습니다.
+  role: 저는 각 종 퀘스트와 스크래치 기능을 개발하였습니다.
   skills: NodeJS, MongoDB, Redis, GameSparks
 
 
-- project: Zepeto Brain
+- project: 제페토 AI Brain
   corp: SNOW corp.
-  role: 전체 1인 개발로서, 사진을 Image 로 추출하는 Machine 개발. Kubernets 를 통한 클러스터 구성. Service Platform 개발 등 전체 다 함.
   duration: Sep, 2017 - Dec, 2018
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
-  description: 사진 -> 3D 얼굴변환 툴 및 서버 구축 서비스화
-  skills: Tensorflow, Python, Kubernetes, Redis, HA
+  description: 제페토는 나를 닮은 3D 아바타라는 컨셉의 글로벌 앱 입니다. 사용자가 촬영한 셀피 사진을 바탕으로 나를 닮은 3D 아바타를 만들어 줍니다.
+  role: 저는 핵심기능인 사진을 바탕으로 닮은 3D 아바타를 만드는 AI 쪽을 전담하여 개발하였습니다. 사진 수집 및 분류, Tensorflow 를 이용한 학습, 서비스를 위해 8개 국가에 클러스터(Kubernetes) 및 API 구축을 모두 하였습니다. 이 모든 것을 혼자서 하는건 상당히 고된 작업이었습니다.
+  skills: Tensorflow, Python, Kubernetes, Redis, HA, Alibaba Cloud, *Tenacity*
   
 
 - project: PORTRA 카메라 앱
