@@ -4,25 +4,25 @@
   ci: ./corp/snow.png
   position: Developer
   duration:  May, 2017  &mdash; Now
-  summary: 
+  summary: LINE+ 가 SNOW 와 인수합병되어 재직하게 되었습니다.
   
   
 - company: LINE+ corp.
   ci: ./corp/line.jpg
   position: Developer
   duration:  Aug, 2014  &mdash; Apr, 2017
-  summary: M&A  
+  summary: 위트스튜디오가 네이버 자회사인 LINE+ 에 인수되어 재직하게 되었습니다.
   
   
 - company: Wit studio
   ci: ./corp/witstudio.png
   position: Co-Founder / Development Manager
   duration:  Nov, 2012  &mdash; Jly, 2014
-  summary: 스타트업 회사
+  summary: 스타트업 회사로서 지인 3명과 함께 창업한 회사입니다.
   
   
 - company: Samsung Electronics corp. - Media Solution Center
   ci: ./corp/samsung.jpg
   position: Software Developer (S3)
   duration:  Jan, 2010  &mdash; Oct, 2012
-  summary: 첫 회사로 개발자로서 일을 하였습니다.
+  summary: 첫 공식 직장으로서 많은 것들을 배울 수 있었습니다. 하지만 창의적인 것들을 할 수 있는 기회가 적어 회의감을 느끼고 이직을 하게 되었습니다.
