@@ -42,9 +42,10 @@
 - project: 음성변조 엔진 개발 (Parfait)
   corp: LINE+ corp.
   duration: Nov, 2016 &mdash; Jan, 2017
-  url: 
-  description: Parfiat 는 C++로 구현된 DSP (Digital Signal Processing)을 이용한 음성변조 엔진입니다. 현재 SNOW 카메라 앱과 b612 카메라 앱에서 사용중입니다.
-  role: 혼자서 진행한 프로젝트로서, iOS 와 Android 용 라이브러리 그리고 제작용 앱을 개발하였습니다. 개발을 위해 처음으로 DSP 와 Fourier Transform 을 공부하였습니다.
+  url: portfolio/2017/Parfait
+  cover: portfolio/2017/Parfait/b612.jpg
+  description: Parfiat 는 C++로 구현된 DSP (Digital Signal Processing)을 이용한 음성변조 엔진입니다. Fuzz, Distortion, Harmonic 등 22 여가지의 기능들을 추가하고 라이브러리화 하였습니다. 현재 SNOW 카메라 앱과 b612 카메라 앱에서 사용중입니다.
+  role: 혼자서 진행한 프로젝트로서, iOS 와 Android 용 라이브러리 그리고 제작용자 앱도 함께 개발하였습니다.
   skills: DSP, C++, Android
 
   
@@ -68,8 +69,9 @@
 - project: egg 카메라 앱
   corp: LINE+ corp.
   duration: Jan, 2016 &mdash; Jly, 2016
-  url: https://linepluscorp.com/pr/news/ko/2016/1452
-  description: egg 는 지금의 B612 나 SNOW 카메라 앱과 유사한 앱입니다.
+  url: https://linecorp.com/en/pr/news/en/2016/1363
+  cover: portfolio/2016/egg/egg.jpg
+  description: egg 는 지금의 B612 나 SNOW 카메라 앱과 유사한 앱입니다. 회사 M&A 과정에서 B612와 SNOW 앱으로 흡수되어 현재는 스토어에서 삭제 되었습니다.
   role: 저는 안드로이드 앱과 키오스크 용 앱 개발을 전담하여 개발하였습니다.
   skills: Android
 
@@ -95,6 +97,7 @@
   corp: 위트스튜디오
   duration: Feb, 2014 &mdash; May, 2014
   url: https://witstudio.tistory.com/257
+  cover: portfolio/2014/syncor/syncor.png
   description: 싱커는 APNG 를 이용하여 만든 데스크탑 화면을 스트리밍 해주는 프로그램입니다. 덕분에 클라이언트는 별도의 프로그램 없이 스트리밍되는 화면을 볼 수 있습니다.
   role: 한번은 LG 하이닉스 회사에 미팅을 갔었습니다. 그곳의 인프라 문제로 저희가 준비한 프리젠테이션을 띄울 수 없는 상황이 발생하였습니다. 이때 화면을 간편하게 스트리밍할 수 있는 프로그램이 있으면 좋겠다는 생각을 하게 되어 만들게 되었습니다. 디자인 1인과 함께 둘이서 만든 프로젝트입니다.
   skills: WPF, C#, aPNG
@@ -133,7 +136,8 @@
 - project: AllShare Play
   corp: 삼성전자 MSC 사업부
   duration: Oct, 2011 &mdash; Oct, 2012
-  url: https://www.samsung.com/us/2012-allshare-play/
+  url: https://www.samsung.com/us/2012-allshare-play
+  youtube: https://www.youtube.com/embed/P67r4uV1iC0
   description: AllShare 의 Cloud 버전으로, 같은 네트워크 망이 아닌 다른 망에서도 사용 가능한 AllShare 입니다.
   role: 저는 외부 업체에서 만든 NAT Library 를 이용한 아키텍쳐 구현부터, 각종 Media 에서 Thumbnail 등의 정보를 추출하는 Library 개발을 전담하였습니다. 그리고 MacOS 용으로 포팅을 하였습니다.
   skills: WPF, UPnP (DLNA), C#, Java, OSX, MFC/C++
@@ -143,6 +147,7 @@
   corp: 삼성전자 MSC 사업부
   duration: Dec, 2010 &mdash; Sep, 2011
   url: https://www.youtube.com/watch?v=xBhFE4vzpFE
+  youtube: https://www.youtube.com/embed/xBhFE4vzpFE
   description: DLNA 의 DMC, DMS, DMP 기능을 모두 탑제한 PC 소프트웨어 입니다.
   role: 당시 연구소에서 만든 DLNA 스택을 사용하였는데 문제가 너무 많아 혼자서 직접 DLNA 스택을 다시 개발하였고, 이 스택이 현재까지도 삼성에서 쓰이고 있는 것으로 알고 있습니다. UI 를 제외한 나머지 DLNA Engine 및 Library 개발을 전담하였습니다.
   skills: WPF, UPnP (DLNA), C#, Java
@@ -167,6 +172,7 @@
 
 - project: 한국신문협회 관리자 프로그램 (NWFMS)
   corp: 한국신문협회
+  url: http://www.presskorea.or.kr
   duration: Nov, 2009 &mdash; Dec, 2009
   description: 지인 3명이서 함께 한 외주 프로젝트로서 기존 Visual C++ 로 구현된 관리자 프로그램을 WPF 로 다시 재작하는 일이었습니다. 신문협회 내부적으로 사용하는 프로그램입니다.
   role: 저는 다른 개발자 1명과 함께 UI 개발 및 데이터 바인딩 작업을 하였습니다.
@@ -217,6 +223,7 @@
 
 - project: 동대문 소상공인 쇼핑몰 제작
   corp: 한양대학교
+  url: portfolio/2006/makeshop/makeshop.jpg
   duration: June, 2006 &mdash; July, 2006
   description: 인터넷 쇼핑몰 구축 업체인 메이크샵과 모교인 한양대학교와 산학협력으로 진행된 사업입니다.
   role: 두 명이서 메이크샵을 이용하여 쇼핑몰을 구축하였습니다.
