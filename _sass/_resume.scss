@@ -26,9 +26,10 @@
       color: inherit;
     }
     a:hover {
-      fill: #333;
+      color: #333;
       @include transition(all .2s ease);
-      }
+      text-decoration: none;
+    }
   }
 
   .avatar {
