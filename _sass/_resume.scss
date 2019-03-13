@@ -28,6 +28,7 @@
     a:hover {
       fill: #333;
       @include transition(all .2s ease);
+      }
   }
 
   .avatar {
