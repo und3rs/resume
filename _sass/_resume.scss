@@ -21,9 +21,12 @@
 .page-header { padding: 1.5rem 0;
   
   .language-selection {
-    float: right;
+    padding: 4px;
     a {
+      float:right;
       color: inherit;
+      padding-left:4px;
+      padding-right:4px;
     }
     a:hover {
       color: #333;
