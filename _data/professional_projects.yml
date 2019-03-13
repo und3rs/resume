@@ -1,6 +1,6 @@
 # Projects
 
-- project: 제페토 Open API
+- project: Zepeto Open API
   corp: SNOW corp.
   duration: Mar, 2019 - Now
   # url: "#"
@@ -9,7 +9,7 @@
   skills: Kubernetes, Docker, CentOS, Unity, Python, Redis, Django, HA
   
   
-- project: 제페토 서비스
+- project: Zepeto Service
   corp: SNOW corp.
   duration: Jan, 2019 - Feb, 2019
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
@@ -19,7 +19,7 @@
   skills: NodeJS, MongoDB, Redis, GameSparks
 
 
-- project: 제페토 AI Brain
+- project: Zepeto Brain (AI)
   corp: SNOW corp.
   duration: Dec, 2017 - Dec, 2018
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
@@ -29,7 +29,7 @@
   skills: Tensorflow, Python, Kubernetes, Redis, HA, Alibaba Cloud, *Tenacity*
 
   
-- project: 음성변조 엔진 개발 (Parfait)
+- project: Voice Changer Engine (Parfait)
   corp: LINE+ corp.
   duration: Oct, 2017 &mdash; Nov, 2017
   url: portfolio/2017/Parfait
@@ -39,7 +39,7 @@
   skills: DSP, C++, Android
 
 
-- project: PORTRA 카메라 앱
+- project: PORTRA Camera App.
   corp: SNOW corp.
   duration: Feb, 2017 - Sep, 2017
   url: https://play.google.com/store/apps/details?id=com.playlist.portra
@@ -50,7 +50,7 @@
 
 
   
-- project: 라인 프렌즈 스토어 리뉴얼
+- project: LINE Friends Store renewer
   corp: LINE+ corp.
   duration: Sep, 2016 &mdash; Jan, 2017
   url: https://store.linefriends.co.kr
@@ -59,7 +59,7 @@
   skills: wordpress/woocommerce, Redis, MySQL, nginx, php
   
   
-- project: egg 카메라 앱
+- project: egg Camera App.
   corp: LINE+ corp.
   duration: Jan, 2016 &mdash; Aug, 2016
   url: https://linecorp.com/en/pr/news/en/2016/1363
@@ -69,7 +69,7 @@
   skills: Android
   
   
-- project: 라인 크리에이터스
+- project: LINE Creators
   corp: LINE+ corp.
   url: https://store.line.me
   duration: Oct, 2015 &mdash; Dec, 2015
@@ -78,7 +78,7 @@
   skills: ASP, MSSQL, CentOS, PHP, MySQL, Sphinx, Security, HA, Redis
   
   
-- project: 컬러링 북 앱
+- project: Coloring Book App.
   corp: LINE+ corp.
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook
   duration: Aug, 2015 &mdash; Sep, 2015
@@ -87,7 +87,7 @@
   skills: Android, Javascript, SVG
   
 
-- project: 툰챗
+- project: Toon Chat App.
   corp: LINE+ corp.
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat
   duration: Mar, 2015 &mdash; Jly, 2015
@@ -104,7 +104,7 @@
   skills: Android
     
   
-- project: 이미지 리소스 Archiving 사이트
+- project: Design Resource Archiving Web
   corp: LINE+ corp.
   duration: Aug, 2014 &mdash; Sep, 2014
   description: 디자인 팀에서 의뢰하여 진행한 사내용 프로젝트 입니다. 디자이너들은 작업한 리소스를 공용 스토리지에 무작위로 저장하고 있었습니다. 태그를 달고 검색이 가능하며, 전체 목록을 볼 수 있는 사이트가 필요하여 진행하였습니다. 리소스를 보고 검색할 수 있는 사이트와 파일 시스템을 감시하고 목록을 관리하는 시스템부로 이루어져 있습니다.
@@ -112,8 +112,8 @@
   skills: web, C#, Resource Meta Extracting, Javascript
 
 
-- project: 싱커
-  corp: 위트스튜디오
+- project: Syncor
+  corp: wit studio
   duration: Feb, 2014 &mdash; May, 2014
   url: https://witstudio.tistory.com/257
   cover: portfolio/2014/syncor/syncor.png
@@ -123,7 +123,7 @@
 
 
 - project: Assistor PS
-  corp: 위트스튜디오
+  corp: wit studio
   duration: Mar, 2013 &mdash; Jan, 2014
   url: https://www.youtube.com/watch?v=TZcrmyaj2XA
   youtube: https://www.youtube.com/embed/TZcrmyaj2XA
@@ -133,7 +133,7 @@
 
 
 - project: Grappic App
-  corp: 위트스튜디오
+  corp: wit studio
   duration: Jan, 2013 &mdash; Feb, 2013
   url: https://witstudio.tistory.com/category/Grappic
   youtube: https://www.youtube.com/embed/EW2h7dz6Hhw
@@ -142,8 +142,8 @@
   skills: Xamarin Studio(Mono Develop), C#, MySQL, CentOS, Apache  
   
 
-- project: 코디네이터 2.0
-  corp: 위트스튜디오
+- project: Codinator 2.0
+  corp: wit studio
   youtube: https://www.youtube.com/embed/w2_VBRBLllc?list=UUQ9_lJbli2JykP1phzIDDfg
   url: https://witstudio.tistory.com/149
   duration: Nov, 2012 &mdash; Dec, 2012
@@ -153,7 +153,7 @@
   
   
 - project: AllShare Play
-  corp: 삼성전자 MSC 사업부
+  corp: Samsung Electronics MSC
   duration: Oct, 2011 &mdash; Oct, 2012
   url: https://www.samsung.com/us/2012-allshare-play
   youtube: https://www.youtube.com/embed/P67r4uV1iC0
@@ -163,7 +163,7 @@
   
   
 - project: AllShare PC SW
-  corp: 삼성전자 MSC 사업부
+  corp: Samsung Electronics MSC
   duration: Dec, 2010 &mdash; Sep, 2011
   url: https://www.youtube.com/watch?v=xBhFE4vzpFE
   youtube: https://www.youtube.com/embed/xBhFE4vzpFE
@@ -173,7 +173,7 @@
   
   
 - project: Kies PC software
-  corp: 삼성전자 MSC 사업부
+  corp: Samsung Electronics MSC
   duration: Jan, 2010 &mdash; Nov, 2010
   url: https://www.samsungsvc.co.kr/online/faqView.do?domainId=NODE0000033866&node_Id=NODE0000124882&faqId=KNOW0000002908
   description: Kies 는 DLNA를 포함하여 사진, 영상 편집, 휴대폰과 PC 간 파일 복사 등 휴대폰과 관련된 많은 기능을 제공하는 통합 프로그램입니다.
@@ -181,8 +181,8 @@
   skills: WPF, UPnP (DLNA), C#
   
   
-- project: 홈페이지 제작
-  corp: 위트스튜디오
+- project: Homepage
+  corp: wit studio
   duration: Nov, 2009 &mdash; Dec, 2009
   description: 법인설립 이전에 지인 3명이서 함께 팀 빌딩을 하였습니다.
   role: 회사 홈페이지 개발을 하였습니다.
@@ -199,7 +199,7 @@
 
   
 - project: SIMS (Samsung Injector Monitoring System)
-  corp: 삼성전자 생산기술 연구소 (Samsung Manufacturing Technology Center)
+  corp: Samsung Manufacturing Technology Center
   duration: Aug, 2009 &mdash; Dec, 2009
   description: SMIS는 사출기 모니터링 시스템으로서 DB 에서 각종 정보를 받아 표와 차트, 그래프로 보여주는 모니터링 툴입니다. 개발자 1명과 함께 진행한 프로젝트입니다.
   role: 저는 데이터를 각종 차트와 표로 보여주는 모듈을 개발하였습니다.
@@ -207,7 +207,7 @@
   
 
 - project: Ambient Wall
-  corp: 삼성전자 종합기술원 (Samsung Advanced Institute of Technology)
+  corp: Samsung Advanced Institute of Technology
   duration: Apr, 2009 &mdash; Jun, 2009
   description: 삼성 소프트웨어 멤버십을 통해 참여를 지원하게 되었습니다. Ambient Wall 은 2009년 삼성 기술전 출품용 프로젝트입니다. 거실의 한쪽 벽면 전체가 스크린으로 되어있고 이것을 통해 화상통화나 날씨정보, 지도 등을 볼 수 있습니다. 그리고 모든 인터렉션은 모션인식을 통해서 이루어집니다.
   role: 저는 모션정보를 받아서 지도를 제어하고 보여주는 부분을 담당하였습니다.
@@ -215,7 +215,7 @@
   
     
 - project: Surface TableTop
-  corp: 삼성전자 종합기술원 (Samsung Advanced Institute of Technology)
+  corp: Samsung Advanced Institute of Technology
   duration: Jun, 2008 &mdash; Sep, 2008
   url: portfolio/2008/TableTop
   video: portfolio/2008/TableTop/TableTop.mp4
@@ -233,8 +233,8 @@
   skills: ASP, PHP
 
 
-- project: 회사 홈페이지 제작
-  corp: 소누스이엔티
+- project: Homepage
+  corp: SONUSENT corp.
   duration: Sep, 2007 &mdash; Dec, 2007
   description: 엔터테이먼트 회사인 &quot;소누스이엔티(최대진 공연음반영화기획) 논현동 164의16 명성빌딩 304호&quot; 의 회사 소개 홈페이지입니다. 현재는 회사가 존재하지 않는 것으로 보여집니다.
   role: 혼자서 맡은 프로젝트로서 개인적으로 디자이너를 파트타임으로 고용하여 진행하였습니다. 회사 소개 페이지와 관리를 위한 CMS 페이지도 제작하였습니다.
@@ -242,7 +242,7 @@
 
 
 - project: 동대문 소상공인 쇼핑몰 제작
-  corp: 한양대학교
+  corp: Hanyang University
   url: portfolio/2006/makeshop/makeshop.jpg
   duration: Jun, 2006 &mdash; Jly, 2006
   description: 인터넷 쇼핑몰 구축 업체인 메이크샵과 모교인 한양대학교와 산학협력으로 진행된 사업입니다.
