@@ -19,10 +19,15 @@
 // page header styles
 
 .page-header { padding: 1.5rem 0;
+  
   .language-selection {
+    float: right;
     a {
       color: inherit;
     }
+    a:hover {
+      fill: #333;
+      @include transition(all .2s ease);
   }
 
   .avatar {
