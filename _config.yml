@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "unD3Rs"
-resume_title:                   "세상을 더 편리하게"
+resume_title:                   "Make the world more convinient!"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "und3rs@gmail.com"
