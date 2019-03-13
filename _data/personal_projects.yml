@@ -4,13 +4,13 @@
   duration: Apr, 2014 &mdash; Now
   url: https://caz.smartholic.com
   cover: images/smartcaz.jpg
-  description: 차량 관리를 위한 앱 입니다. 개발 당시 제가 원하는 기능을 갖고있는 앱이 없었습니다. 이에 필요성을 느껴서 직접 개발하게 되었습니다. 회사를 다니면서 혼자 개발한다는게 시간적으로 쉽지가 않았습니다. 현재 스토어에 등록된 앱 입니다. 이미지 리소스 작업은 파트타임형태로 출시 한 달 전에 디자이너에게 의뢰하여 작업하였습니다. Opinet 의 유가정보 API 를 이용하기 위해서는 법인 사업자가 필요하여 스마트홀릭 주식회사를 설립하였습니다.
+  description: 차량 관리를 위한 앱 입니다. 개발 당시 제가 원하는 기능을 갖고있는 앱이 없었습니다. 이에 필요성을 느껴서 직접 개발하게 되었습니다. 회사를 다니면서 혼자 개발한다는게 시간적으로 쉽지가 않았습니다. 현재 스토어에 등록된 앱 입니다. 이미지 리소스 작업은 파트타임형태로 출시 한 달 전에 디자이너에게 의뢰하여 작업하였습니다.
   skills: Android, Google Firebase, CentOS, MySQL, Redis, REST API, Phalcon, PHP
 
 
 - project: OTG 리버스엔지니어링
   duration: Apr, 2018
-  description: 아내가 아이를 위해서 영어 동영상을 구매하였는데, OTG 형태로 제공되었습니다. 그래서 영상을 보려면, 거추장스럽게 휴대폰에 OTG를 매번 연결해야 합니다. 이것이 너무 불편하여 Fake OTG 를 리버스 엔지니어링을 통해 OTG 없이 동영상을 휴대폰에 넣어 볼 수 있도록 만들었습니다.
+  description: 구매한 영상들이 OTG 형태로 제공되었습니다. 그래서 영상을 보려면, 거추장스럽게 휴대폰에 OTG를 매번 연결해야 합니다. 이것이 너무 불편하여 Fake OTG 를 리버스 엔지니어링을 통해 OTG 없이 동영상을 휴대폰에 넣어 볼 수 있도록 만들었습니다.
   skills: Android, dalvik
 
 
@@ -22,9 +22,9 @@
   skills: .NET Micro Framework, Netduino
 
 
-- project: 모두의 게임 봇
+- project: 게임 봇
   duration: 2012
-  description: 모두의 게임이 한창 유행하고 있을 때, 친구와 누가 봇을 더 잘 말어 높은 점수를 받는지 경쟁하기 위해 재미로 만들었습니다. 높은 스코어를 받았지만 이후 계정은 차단당했습니다.
+  description: 모두의 게임이 한창 유행하고 있을 때, 높은 스코어를 받기 위해 재미로 만들어 보았습니다. 평소에도 이런 것들을 하며 노는 것을 좋아합니다.
   skills: C#
 
 
@@ -63,6 +63,6 @@
 
 - project: 리버스엔지니어링
   duration: Apr, 2005
-  description: 군복무시절 100일 휴가 나와서 온라인 채팅을 하였는데, 그때 만난 분이 리버스엔지니어링을 부탁하여 진행하였습니다.
+  description: 지인의 부탁으로 리버스엔지니어링을 진행하였습니다.
   skills: Assembly/Decompile, OllyDbg
   
