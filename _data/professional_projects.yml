@@ -25,7 +25,7 @@
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
   description: The Zepeto generates the pretty 3D human avatar that looks like a user from a single image.
-  role: 저는 핵심기능인 사진을 바탕으로 닮은 3D 아바타를 만드는 AI 쪽을 전담하여 개발하였습니다. 사진 수집 및 분류, Tensorflow 를 이용한 학습, 서비스를 위해 8개 국가에 클러스터(Kubernetes) 및 API 구축을 모두 하였습니다. 이 모든 것을 혼자서 하는건 상당히 고된 작업이었습니다. 더불어 나를 닮은 아바타를 만드는 것은 비교적 쉬운 작업이었으나, 닮으면서도 징그럽지 않고 예쁜 아바타를 만드는 일은 매우 어렵고 까다로운 작업이었습니다.
+  role: I created AI that makes 3D human avatar from a single image with deep learning by myself. More specifically, I did the things are collecting and labeling images, building nueral network, lots of testing and learning, code stuff for training, building and managing 8 clusters in several regions, making REST API server and so on. 더불어 나를 닮은 아바타를 만드는 것은 비교적 쉬운 작업이었으나, 닮으면서도 징그럽지 않고 예쁜 아바타를 만드는 일은 매우 어렵고 까다로운 작업이었습니다.
   skills: Tensorflow, Python, Kubernetes, Redis, HA, Alibaba Cloud, *Tenacity*
 
   
