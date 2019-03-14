@@ -15,7 +15,7 @@
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   youtube: https://www.youtube.com/embed/n0llsGlXT_U
   description: The Zepeto is a globally popular App that generates a 3D avatar look the same as a user. Zepeto has achieved above 20 million downloads.
-  role: I developed some functions such as daily quests, scratch games, Wechat payment, detecting illegal users, migration system for chinese users and so on.
+  role: Developed some functions such as daily quests, scratch games, Wechat payment, detecting illegal users, migration system for chinese users and so on.
   skills: NodeJS, MongoDB, Redis, GameSparks
 
 
@@ -25,7 +25,7 @@
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
   description: The Zepeto generates the pretty 3D human avatar that looks like a user from a single image.
-  role: I created AI that makes 3D human avatar from a single image with deep learning by myself. More specifically, I did the things are collecting and labeling images, building nueral network, lots of testing and learning, code stuff for training, building and managing 8 clusters in several regions, making REST API server and so on. I did all of this project by myself. 더불어 나를 닮은 아바타를 만드는 것은 비교적 쉬운 작업이었으나, 닮으면서도 징그럽지 않고 예쁜 아바타를 만드는 일은 매우 어렵고 까다로운 작업이었습니다.
+  role: Developed AI that makes 3D human avatar from a single image with deep learning by myself. More specifically, I did the things are collecting and labeling images, building nueral network, lots of testing and learning, code stuff for training, building and managing 8 clusters in several regions, making REST API server and so on. I did all of this project by myself. 더불어 나를 닮은 아바타를 만드는 것은 비교적 쉬운 작업이었으나, 닮으면서도 징그럽지 않고 예쁜 아바타를 만드는 일은 매우 어렵고 까다로운 작업이었습니다.
   skills: Tensorflow, Python, Kubernetes, Redis, HA, Alibaba Cloud, *Tenacity*
 
   
@@ -35,7 +35,7 @@
   url: portfolio/2017/Parfait
   cover: portfolio/2017/Parfait/b612.jpg
   description: The Parfait is a Voice Changer Engine based on DSP(Digital Signal Processing) written in C++. This engine is including over 22 DSP filters such as Fuzz, Distortion, Harmonic. SNOW App and B612 App are using this engine for to change voice sound.
-  role: I did make the engine for iOS/Android and App for a voice sound filter producer. I did all of this project by myself.
+  role: Developed the engine for iOS/Android and App for a voice sound filter producer without any co-workers.
   skills: DSP, C++, Android
 
 
@@ -53,7 +53,7 @@
   corp: LINE+ corp.
   duration: Sep, 2016 &mdash; Jan, 2017
   url: https://store.linefriends.co.kr
-  description: 라인 프렌즈 스토어는 라인의 굿즈를 판매하는 스토어 사이트입니다. 기존 스토어가 속도가 느리고 결제 오류가 많아 리뉴얼하게 되었습니다.
+  description: The payment system of this store has been pretty slow so needed renewal.
   role: 개발자 2명이서 진행한 프로젝트로서 Wordpress, 우커머스를 기반으로 커스터마이징 하는 방식으로 진행하였습니다. 팀 일정에 의해 개발 완료 후 라인프렌즈에 이관하였습니다.
   skills: wordpress/woocommerce, Redis, MySQL, nginx, php
   
@@ -64,7 +64,7 @@
   url: https://linecorp.com/en/pr/news/en/2016/1363
   cover: portfolio/2016/egg/egg.jpg
   description: egg 는 지금의 B612 나 SNOW 카메라 앱과 유사한 앱입니다. 회사 M&A 과정에서 B612와 SNOW 앱으로 흡수되어 현재는 스토어에서 삭제 되었습니다.
-  role: 저는 안드로이드 앱과 키오스크 용 앱 개발을 전담하여 개발하였습니다.
+  role: Developed App for android and kiosk without any others.
   skills: Android
   
   
@@ -99,7 +99,7 @@
   corp: LINE+ corp.
   duration: Nov, 2014 &mdash; Feb, 2015
   description: 세상에서 가장 단순한 메신저 앱으로서, 글 없이 제공되는 이미지 심볼만 보내고 받을 수 있습니다. 프로토타입으로 개발하였으며 반응이 좋지 않아 진행 종료되었습니다.
-  role: 안드로이드 앱을 담당하여 개발하였습니다.
+  role: Developed android App.
   skills: Android
     
   
@@ -184,7 +184,7 @@
   corp: wit studio
   duration: Nov, 2009 &mdash; Dec, 2009
   description: 법인설립 이전에 지인 3명이서 함께 팀 빌딩을 하였습니다.
-  role: 회사 홈페이지 개발을 하였습니다.
+  role: Developed website of witstudio.
   skills: html, javascript, MySQL, CentOS
 
 
