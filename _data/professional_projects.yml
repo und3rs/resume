@@ -4,7 +4,7 @@
   corp: SNOW corp.
   duration: Mar, 2019 - Now
   # url: "#"
-  description: Zepeto is a 3D avatar App that is very popular globally. Many 3rd party applications wants to use contents and functions of Zepeto. So we need 3D Rendering API service that provides avatar images with headless GPU machines.
+  description: Zepeto is a 3D avatar App that is very popular globally. Many 3rd party applications wants to use contents and functions of Zepeto. So we need to make 3D Rendering API service that provides avatar images with headless GPU machines.
   role: I'm building some clusters in several regions with kubernetes and making a system architecture for to use GPU servers efficiently by myself.
   skills: Kubernetes, Docker, CentOS, Unity, Python, Redis, Django, HA
   
