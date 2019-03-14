@@ -14,8 +14,8 @@
   duration: Jan, 2019 - Feb, 2019
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   youtube: https://www.youtube.com/embed/n0llsGlXT_U
-  description: 제페토는 나를 닮은 예쁜 3D 아바타라는 컨셉의 글로벌 앱 입니다. 구글 플레이와 앱스토어에서 누적 수천만 다운로드를 달성하고 있습니다.
-  role: 저는 각 종 퀘스트와 스크래치, 부정사용자 감시, 중국 사용자 마이그레이션 기능들을 개발하였습니다.
+  description: The Zepeto is a globally popular App that generates a 3D avatar look the same as a user. Zepeto has achieved above 20 million downloads.
+  role: I developed some functions such as daily quests, scratch games, Wechat payment, detecting illegal users, migration system for chinese users and so on.
   skills: NodeJS, MongoDB, Redis, GameSparks
 
 
