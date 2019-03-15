@@ -4,13 +4,13 @@
   duration: Apr, 2014 &mdash; Now
   url: https://caz.smartholic.com
   cover: images/smartcaz.jpg
-  description: 차량 관리를 위한 앱 입니다. 개발 당시 제가 원하는 기능을 갖고있는 앱이 없었습니다. 이에 필요성을 느껴서 직접 개발하게 되었습니다. 회사를 다니면서 혼자 개발한다는게 시간적으로 쉽지가 않았습니다. 현재 스토어에 등록된 앱 입니다. 이미지 리소스 작업은 파트타임형태로 출시 한 달 전에 디자이너에게 의뢰하여 작업하였습니다.
+  description: This is an app for vehicle management. At the time of development, there was no app that I wanted. I felt the need for this, so I developed it myself. It wasn't easy time to go to work and develop alone. This app is currently registered in the store. Image resource work was commissioned by the designer a month before the release in part-time format.
   skills: Android, Google Firebase, CentOS, MySQL, Redis, REST API, Phalcon, PHP
 
 
 - project: OTG Reverse Engineering
   duration: Apr, 2018
-  description: 구매한 영상들이 OTG 형태로 제공되었습니다. 그래서 영상을 보려면, 거추장스럽게 휴대폰에 OTG를 매번 연결해야 합니다. 이것이 너무 불편하여 Fake OTG 를 리버스 엔지니어링을 통해 OTG 없이 동영상을 휴대폰에 넣어 볼 수 있도록 만들었습니다.
+  description: I had purchased some academic videos were provided in OTG format. So when I saw the video, I had to plug the OTG into my cell phone every time. It was too uncomfortable so I made a Fake OTG in reverse engineering so that I can see a video in a cell phone without OTG.
   skills: Android, dalvik
 
 
@@ -18,51 +18,51 @@
   cover: images/netduiono.jpg
   url: https://crystalcube.co.kr/134
   duration: May, 2014
-  description: 어려서부터 하드웨어 쪽에도 관심이 많았습니다. 우연히 Netduino 라는 보드를 알게되어 이것으로 온라인 제어가 가능한 알람을 만들어 보았습니다. 이 외에도 USB Storage 와 같은 것들을 만들어 보았습니다.
+  description: I have been interested in hardware since I was in elementary school. I happened to know a board called Netduino, and I created an alarm that I could control online. In addition, I've tried to make things like USB Mass Storage with Netduino.
   skills: .NET Micro Framework, Netduino
 
 
 - project: Game BOT
   duration: 2012
-  description: 모두의 게임이 한창 유행하고 있을 때, 높은 스코어를 받기 위해 재미로 만들어 보았습니다. 평소에도 이런 것들을 하며 노는 것을 좋아합니다.
+  description: When the "모두의 게임" was in vogue, I made a BOT with C# for fun to get high scores. I usually enjoy programming something like this for fun.
   skills: C#
 
 
 - project: PC Remote Controller with Wii Remote
   duration: Jul, 2012
   url: https://crystalcube.co.kr/101?category=608573
-  description: 저는 집에서 컴퓨터로 영화를 보는 것이 취미입니다. 가끔 영화를 보다보면 컴퓨터를 조작해야 하는 일이 발생하는데, 그때마다 컴퓨터로 다가가 조작해야하는 것이 너무 불편하였습니다. 마침 집에 위모트 컨트롤러가 있어서 Bluetooth 를 이용한 PC용 리모콘을 제작하였습니다.
+  description: I usually watching movies on the computer at home. Sometimes, when I watch a movie, I have to operate a computer, and it was very inconvenient to go closly to the computer and controll it. As I happen to have a Wiimote controller at home, I made a remote control for PC using Bluetooth.
   skills: Bluetooth, C#
   
 
 - project: 3D Virtual Trip
   duration: Sep, 2008 &mdash; Aug, 2009
-  description: 대학 졸업작품으로 진행한 프로젝트로서 Virtual Trip 이라는 이름에서 알 수 있듯이 가상 여행을 하는 프로그램입니다. 현재의 구글 스트릿 뷰와 같이 WPF 를 통해 3D 공간을 만들었습니다. 이 영상을 HMD(Head Mounted Display)로 통해 출력하여 현실감을 줍니다. 그리고 IR 소자 3개를 이용하여 삼각형 형태로 배치한 기구를 제작하였습니다. 이 불빛을 닌텐도 Wii 의 IR 수신기를 통해 읽어 세 점에 대한 위치정보를 받아 옵니다. 값 분석을 통해 Yaw, Pitch, Roll 의 변화를 감지합니다. 이 변화를 3D 공간에 적용시켜 마치 그곳에 실제로 있는것 같은 착각을 줍니다. 그리고 다리에 위모트를 부착하여 걷는 동작을 인지하여, 가상의 거리를 이동할 수 있게 하였습니다. 지금은 오큘러스와 같은 VR 기기가 많지만, 이 프로젝트를 처음 시작한 시기가 2008년이며 창의적으로 생각해서 진행한 프로젝트였습니다. 이후 머리의 움직임을 좀 더 정확히 트래킹하기 위하여 IR센서에서 자이로 센서로 추적 방식을 변경하였습니다.
+  description: This was a college graduation portfolio. As you can see from the name Virtual Trip, it's a program that makes virtual travel. Like the current Google Street view, I created 3D space with WPF. This image is output via the Head Mounted Display (HMD) to give you a sense of reality. And I made a triangular arrangement of instruments using three IR LED. This light is read through the IR receiver of Nintendo Wii to get location information for three points. The value analysis detects changes in Yaw, Pitch, and Roll. I apply this change to the 3D space, and it gives us the illusion that it's actually there. And then, by attaching a gastromot to the legs, I realized that I was walking, so that I could move a virtual distance. Now there are many VR devices like Oculus, but the first time I started this project was in 2008 and I thought creatively that I did it. In order to track the movement of the head more accurately, I changed the tracking method from IR sensor to gyro sensor.
   skills: WPF, C#, HardWare, Bluetooth
   
   
 - project: Handover Network Driver
   duration: Mar, 2008 - Jun, 2008
-  description: 삼성 소프트웨어 멤버십에 있을때 진행한 프로젝트로서, 노트북으로 유선 LAN을 사용 중 이동을 위해 Wi-Fi 로 전환할 경우 연결이 끊어집니다. 이 경우에 네트워크의 끊김없이 통신이 가능하도록 하기 위해한 HandOver driver 를 개발하였습니다.
+  description: This project was conducted while I was in Samsung software membership. If you switch to Wi-Fi to move a wired LAN to a laptop, the connection will be lost. In this case, a HandOver driver was developed to ensure uninterrupted communication of the network.
   skills: NDIS, Windows mini-port driver, C/C++
 
 
 - project: Memorize Game
   duration: Jun, 2008
   url: https://crystalcube.co.kr/category/%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/MemorizeGame
-  description: 학습한 ocaml 을 이용하여 만든 간단한 게임입니다. 일종의 기억력 게임으로서 컴퓨터가 누르는 임의의 버튼 순서를 외워, 똑같이 누르면 되는 게임입니다.
+  description: This is a simple game made using ocaml. It's a kind of memorize game where you memorize the random sequence of buttons that your computer presses, and you press them the same order.
   skills: ocaml
 
 
 - project: Realtime GPS shuttle tracking system
   duration: Jun, 2008 &mdash; Nov, 2008
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2007/gps_remote_naviation
-  description: 소프트웨어 멤버십 출품을 위한 프로젝트로서 현재의 시내버스 위치 추적앱과 유사합니다. 2008년에 진행한 프로젝트로 당시에는 이런 개념이 없었습니다. USB 형태의 GPS 시리얼 모듈과 Wibro 를 노트북에 연결하고, GPS 에서 받아온 위치정보를 메인서버에 보냅니다. Google Map 에서 해당 위치에 마커를 달아 실시간으로 수신자가 위치를 알 수 있도록 해 줍니다. 추후 교내 전시도 하였고 교통공학과 교수님으로부터 제의도 받았었습니다.
+  description: This project is similar to the current bus location tracking app. It was a project in 2008, and it didn't have this concept at the time. Connect a USB-type GPS serial module and WiBro to your laptop and send location information from GPS to the main server. Google Maps will place a marker on that location so that the recipient can know the location in real time. Later I took part in exhibition in the school and received a business proposal from a professor of transportation engineering.
   skills: C#, Ajax/Javascript, MySQL, GPS(wgs84)
 
 
 - project: Reverse Engineering
   duration: Apr, 2005
-  description: 지인의 부탁으로 리버스엔지니어링을 진행하였습니다.
+  description: I did reverse engineering somthing at the request of an acquaintance.
   skills: Assembly/Decompile, OllyDbg
   
