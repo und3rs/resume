@@ -107,7 +107,7 @@
   corp: LINE+ corp.
   duration: Aug, 2014 &mdash; Sep, 2014
   description: It is a company-specific project that was commissioned by the design team. Designers were randomly storing their resources in public storage. We needed a site that could tag, search, and see the full list with thumbnail image anywhere.
-  role: 저는 psd 파서, 메타정보 추출기 등 개발에 필요한 라이브러리들을 주로 개발하였습니다.
+  role: Developed a parser of *.psd(Adobe photoshop file format) and a extractor for resources meta data.
   skills: web, C#, Resource Meta Extracting, Javascript
 
 
@@ -116,8 +116,8 @@
   duration: Feb, 2014 &mdash; May, 2014
   url: https://witstudio.tistory.com/257
   cover: portfolio/2014/syncor/syncor.png
-  description: 싱커는 APNG 를 이용하여 만든 데스크탑 화면을 스트리밍 해주는 프로그램입니다. 덕분에 클라이언트는 별도의 프로그램 없이 스트리밍되는 화면을 볼 수 있습니다.
-  role: 한번은 LG 하이닉스 회사에 미팅을 갔었습니다. 그곳의 인프라 문제로 저희가 준비한 프리젠테이션을 띄울 수 없는 상황이 발생하였습니다. 이때 화면을 간편하게 스트리밍할 수 있는 프로그램이 있으면 좋겠다는 생각을 하게 되어 만들게 되었습니다. 디자인 1인과 함께 둘이서 만든 프로젝트입니다.
+  description: Syncor is a desktop application that streams a desktop screen as APNG. This allows the client to view the streamed screen without a special program.
+  role: Once I went to the LG Hynix company for a meeting. There was a situation where we could not launch our presentations due to the infrastructure problems there. At this time, I thought that I would like to have a program that can stream the screen easily. I developed all of this with a designer.
   skills: WPF, C#, aPNG
 
 
