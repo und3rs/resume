@@ -32,7 +32,7 @@
 - project: Voice Changer Engine (Parfait)
   corp: LINE+ corp.
   duration: Oct, 2017 &mdash; Nov, 2017
-  url: portfolio/2017/Parfait
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait
   cover: portfolio/2017/Parfait/b612.jpg
   description: The Parfait is a Voice Changer Engine based on DSP(Digital Signal Processing) written in C++. This engine is including over 22 DSP filters such as Fuzz, Distortion, Harmonic. SNOW App and B612 App are using this engine for to change voice sound.
   role: Developed the engine for iOS/Android and App for a voice sound filter producer without any co-workers.
