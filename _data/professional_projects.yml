@@ -147,7 +147,7 @@
   url: https://witstudio.tistory.com/149
   duration: Nov, 2012 &mdash; Dec, 2012
   description: Coordinator is a graphical program with UI similar to Adobe Photoshop. However, it takes a lot of effort to develop various UI with Photoshop. And it's not easy to do the modifications. The coordinator is a designer program that can compensate for these shortcomings.
-  role:I was in charge of some of the UI and I developed a photoshop file (.psd) parser with javascript.
+  role: I was in charge of some of the UI and I developed a photoshop file (.psd) parser with javascript.
   skills: WPF, C#, Javascript, Photoshop *.psd Spec
   
   
