@@ -11,7 +11,7 @@
 - project: OTG Reverse Engineering
   duration: Apr, 2018
   description: I had purchased some academic videos were provided in OTG format. So when I saw the video, I had to plug the OTG into my cell phone every time. It was too uncomfortable so I made a Fake OTG in reverse engineering so that I can see a video in a cell phone without OTG.
-  skills: Android, dalvik
+  skills: Android, smali
 
 
 - project: Digital Alarm with Netduino
