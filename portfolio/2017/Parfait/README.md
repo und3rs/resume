@@ -59,6 +59,7 @@ delete converter;
 ## Samples
 #### Android
  * [Preset Editor] : 사운드팀 Preset 생성용 [Download]
+ ![main](./main.png) ![settings](./settings.png)
  
  * [Simple Usage] : 실시간 변환 [Download]
  * SimpleUsage 앱의 경우, 안드로이드 6.0 이상은 설정에서 '권한설정'을 직접 해 주세요.
