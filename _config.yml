@@ -1,5 +1,5 @@
 # Site settings
-title: "unD3Rs Resume"
+title: "Sungwook Kim Resume"
 description: "A resume of unD3Rs"
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "unD3Rs"
+resume_name:                    "Sungwook Kim"
 resume_title:                   "Make the world more convinient!"
 
 # used for the contact button in _layouts/resume.html
