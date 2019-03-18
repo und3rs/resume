@@ -32,7 +32,7 @@
 - project: Voice Changer Engine (Parfait)
   corp: LINE+ corp.
   duration: Oct, 2017 &mdash; Nov, 2017
-  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait/README.md
   cover: portfolio/2017/Parfait/b612.jpg
   description: The Parfait is a Voice Changer Engine based on DSP(Digital Signal Processing) written in C++. This engine is including over 22 DSP filters such as Fuzz, Distortion, Harmonic. SNOW App and B612 App are using this engine for to change voice sound.
   role: Developed the engine for iOS/Android and App for a voice sound filter producer without any co-workers.
@@ -79,7 +79,7 @@
   
 - project: Coloring Book App.
   corp: LINE+ corp.
-  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook/README.md
   duration: Aug, 2015 &mdash; Sep, 2015
   description: This is a prototype project.
   role: Developed with a designer. It didn't be published.
@@ -88,7 +88,7 @@
 
 - project: Toon Chat App.
   corp: LINE+ corp.
-  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat/README.md
   duration: Mar, 2015 &mdash; Jly, 2015
   description: Toon Chat App is a messenger that shows messages looks like a comic book. This is a prototype project and not be published.
   role: Developed android App and service server.
