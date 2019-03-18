@@ -9,6 +9,9 @@ Sound Effect Library (DSP)
  * Processing: Real-time, Non Real-time
  * Number of Channels: 1-2 channels
  * BitPerSample: 16-bit Only
+ 
+## Filters
+ ![filters](./filters.jpg)
   
 ## Notice
  * Parfait 에서 제공하는 Engine 코드는 src 폴더에 있습니다.
