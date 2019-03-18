@@ -115,7 +115,7 @@
         {% for project in site.data.professional_projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h3 class="resume-item-title" itemprop="name" id="{{ project.id }}">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ project.duration }}</h4>
           <h4 class="resume-item-details" itemprop="description">{{ project.corp }}</h4>
           {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
@@ -143,7 +143,7 @@
         {% for project in site.data.personal_projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h3 class="resume-item-title" itemprop="name" id="{{ project.id }}">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.duration }}</h4>
           {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
           <p class="resume-item-copy">{{ project.description }}</p>
