@@ -1,6 +1,7 @@
 # Projects
 
 - project: Zepeto Open API
+  id: zepeto_open_api
   corp: SNOW corp.
   duration: Mar, 2019 - Now
   # url: "#"
@@ -10,6 +11,7 @@
   
   
 - project: Zepeto Service
+  id: zepeto_service
   corp: SNOW corp.
   duration: Jan, 2019 - Feb, 2019
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
@@ -20,6 +22,7 @@
 
 
 - project: Zepeto Brain (AI)
+  id: zepeto_brain
   corp: SNOW corp.
   duration: Dec, 2017 - Dec, 2018
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
@@ -30,6 +33,7 @@
 
   
 - project: Voice Changer Engine (Parfait)
+  id: parfait
   corp: LINE+ corp.
   duration: Oct, 2017 &mdash; Nov, 2017
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait/README.md
@@ -40,6 +44,7 @@
 
 
 - project: PORTRA Camera App.
+  id: portra
   corp: SNOW corp.
   duration: Feb, 2017 - Sep, 2017
   url: https://play.google.com/store/apps/details?id=com.playlist.portra
@@ -50,6 +55,7 @@
 
 
 - project: LINE Friends Store renew
+  id: line_friends_store_renew
   corp: LINE+ corp.
   duration: Sep, 2016 &mdash; Jan, 2017
   url: https://store.linefriends.co.kr
@@ -59,6 +65,7 @@
   
   
 - project: egg Camera App.
+  id: egg
   corp: LINE+ corp.
   duration: Jan, 2016 &mdash; Aug, 2016
   url: https://linecorp.com/en/pr/news/en/2016/1363
@@ -69,6 +76,7 @@
   
   
 - project: LINE Creators
+  id: line_creators
   corp: LINE+ corp.
   url: https://store.line.me
   duration: Oct, 2015 &mdash; Dec, 2015
@@ -78,6 +86,7 @@
   
   
 - project: Coloring Book App.
+  id: coloring_book
   corp: LINE+ corp.
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook/README.md
   duration: Aug, 2015 &mdash; Sep, 2015
@@ -87,6 +96,7 @@
   
 
 - project: Toon Chat App.
+  id: toon_chat
   corp: LINE+ corp.
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat/README.md
   duration: Mar, 2015 &mdash; Jly, 2015
@@ -96,6 +106,7 @@
   
   
 - project: Shot 44.3
+  id: shot
   corp: LINE+ corp.
   duration: Nov, 2014 &mdash; Feb, 2015
   description: The shot 44.3 is a simplest messenger App. User only can send a image as a message without text. This project is a prototype and not be published.
@@ -104,6 +115,7 @@
     
   
 - project: Design Resource Archiving Web
+  id: design_resource_archiving
   corp: LINE+ corp.
   duration: Aug, 2014 &mdash; Sep, 2014
   description: It is a company-specific project that was commissioned by the design team. Designers were randomly storing their resources in public storage. We needed a site that could tag, search, and see the full list with thumbnail image anywhere.
@@ -112,6 +124,7 @@
 
 
 - project: Syncor
+  id: syncor
   corp: wit studio
   duration: Feb, 2014 &mdash; May, 2014
   url: https://witstudio.tistory.com/257
@@ -122,6 +135,7 @@
 
 
 - project: Assistor PS
+  id: assistor_ps
   corp: wit studio
   duration: Mar, 2013 &mdash; Jan, 2014
   url: https://witstudio.tistory.com/search/assist
@@ -132,6 +146,7 @@
 
 
 - project: Grappic App
+  id: grappic
   corp: wit studio
   duration: Jan, 2013 &mdash; Feb, 2013
   url: https://witstudio.tistory.com/category/Grappic
@@ -142,6 +157,7 @@
   
 
 - project: Codinator 2.0
+  id: cordinator
   corp: wit studio
   youtube: https://www.youtube.com/embed/w2_VBRBLllc?list=UUQ9_lJbli2JykP1phzIDDfg
   url: https://witstudio.tistory.com/149
@@ -152,6 +168,7 @@
   
   
 - project: AllShare Play
+  id: allshare_play
   corp: Samsung Electronics MSC
   duration: Oct, 2011 &mdash; Oct, 2012
   url: https://www.samsung.com/us/2012-allshare-play
@@ -162,6 +179,7 @@
   
   
 - project: AllShare PC SW
+  id: allshare_pc_sw
   corp: Samsung Electronics MSC
   duration: Dec, 2010 &mdash; Sep, 2011
   url: https://www.youtube.com/watch?v=xBhFE4vzpFE
@@ -172,6 +190,7 @@
   
   
 - project: KIES PC software
+  id: kies
   corp: Samsung Electronics MSC
   duration: Jan, 2010 &mdash; Nov, 2010
   url: https://www.samsungsvc.co.kr/online/faqView.do?domainId=NODE0000033866&node_Id=NODE0000124882&faqId=KNOW0000002908
@@ -181,6 +200,7 @@
   
   
 - project: Homepage
+  id: wit_studio_homepage
   corp: wit studio
   duration: Nov, 2009 &mdash; Dec, 2009
   description: Before the establishment of the corporation, I built a team with three acquaintances.
@@ -189,6 +209,7 @@
 
 
 - project: Korean Association of Newspapers Management System (NWFMS)
+  id: nwfms
   corp: Korean Association of Newspapers
   url: http://www.presskorea.or.kr
   duration: Nov, 2009 &mdash; Dec, 2009
@@ -198,6 +219,7 @@
 
   
 - project: SIMS (Samsung Injector Monitoring System)
+  id: sims
   corp: Samsung Manufacturing Technology Center
   duration: Aug, 2009 &mdash; Dec, 2009
   description: SMIS is a monitoring system that receives information from DB and displays it in tables, charts, and graphs.
@@ -206,6 +228,7 @@
   
 
 - project: Ambient Wall
+  id: ambient_wall
   corp: Samsung Advanced Institute of Technology
   duration: Apr, 2009 &mdash; Jun, 2009
   description: Through the membership of Samsung software, I was able to do this project. Ambient Wall is a 2009 Samsung Technology Exhibition project. As a future home space, one wall has a screen. You can make a video call or view weather information or maps on this screen. All control is possible through motion recognition.
@@ -214,6 +237,7 @@
   
     
 - project: Surface TableTop
+  id: surface_tabletop
   corp: Samsung Advanced Institute of Technology
   duration: Jun, 2008 &mdash; Sep, 2008
   url: portfolio/2008/TableTop
@@ -224,6 +248,7 @@
   
   
 - project: Renew the homepage of Culture Center
+  id: culture_center_homepage
   corp: Gunpo City in Gyeonggi-do
   duration: Nov, 2008 &mdash; Dec, 2008
   url: http://www.happygp.or.kr
@@ -233,6 +258,7 @@
 
 
 - project: Homepage
+  id: sonusent
   corp: SonusEnt corp.
   duration: Sep, 2007 &mdash; Dec, 2007
   description: It is a web site of SonusEnt corp.
@@ -241,6 +267,7 @@
 
 
 - project: Shopping site
+  id: makeshop
   corp: Hanyang University
   url: portfolio/2006/makeshop/makeshop.jpg
   duration: Jun, 2006 &mdash; Jly, 2006
