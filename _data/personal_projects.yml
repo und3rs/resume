@@ -56,7 +56,7 @@
 
 - project: Realtime GPS shuttle tracking system
   duration: Jun, 2008 &mdash; Nov, 2008
-  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2007/gps_remote_naviation
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2007/gps_remote_naviation/README.md
   description: This project is similar to the current bus location tracking app. It was a project in 2008, and it didn't have this concept at the time. Connect a USB-type GPS serial module and WiBro to your laptop and send location information from GPS to the main server. Google Maps will place a marker on that location so that the recipient can know the location in real time. Later I took part in exhibition in the school and received a business proposal from a professor of transportation engineering.
   skills: C#, Ajax/Javascript, MySQL, GPS(wgs84)
 
