@@ -248,7 +248,8 @@
   corp: Samsung Advanced Institute of Technology
   duration: Jun, 2008 &mdash; Sep, 2008
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2008/TableTop/README.md
-  video: portfolio/2008/TableTop/TableTop.mp4
+  cover: portfolio/2008/TableTop/imagecode.jpg
+  #video: portfolio/2008/TableTop/TableTop.mp4
   description: Through the membership of Samsung software, I was able to do this project. Tabletop is a 2008 Samsung Technology Exhibition project that developed contents for desktop computers.
   role: I developed an app and a desktop server that send and receive files using QR-Code. And I developed a function that expresses the beat of music with a vibrator called Shacker.
   skills: Windows Mobile, .NET, Bluetooth
