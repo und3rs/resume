@@ -15,8 +15,8 @@
   corp: SNOW corp.
   duration: Jan, 2019 - Feb, 2019
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
-  cover: http://img.youtube.com/vi/n0llsGlXT_U/0.jpg
-  #youtube: https://www.youtube.com/embed/n0llsGlXT_U
+  #cover: http://img.youtube.com/vi/n0llsGlXT_U/0.jpg
+  youtube: https://www.youtube.com/embed/n0llsGlXT_U
   description: The Zepeto is a globally popular App that generates a 3D avatar look the same as a user. Zepeto has achieved above 20 million downloads.
   role: Developed some functions such as daily quests, scratch games, Wechat payment, detecting illegal users, migration system for chinese users and so on.
   skills: NodeJS, MongoDB, Redis, GameSparks
@@ -49,8 +49,8 @@
   corp: SNOW corp.
   duration: Feb, 2017 - Sep, 2017
   url: https://play.google.com/store/apps/details?id=com.playlist.portra
-  cover: http://img.youtube.com/vi/tPCdqD4pWVw/0.jpg
-  #youtube: https://www.youtube.com/embed/tPCdqD4pWVw
+  #cover: http://img.youtube.com/vi/tPCdqD4pWVw/0.jpg
+  youtube: https://www.youtube.com/embed/tPCdqD4pWVw
   description: PRORTA is a camera App providing lots of effect filters.
   role: I was a one of the programers who made filters with pixel shader via Lua script.
   skills: OpenGL Pixel shader, Lua Script
@@ -141,8 +141,8 @@
   corp: wit studio
   duration: Mar, 2013 &mdash; Jan, 2014
   url: https://witstudio.tistory.com/search/assist
-  cover: http://img.youtube.com/vi/TZcrmyaj2XA/0.jpg
-  #youtube: https://www.youtube.com/embed/TZcrmyaj2XA
+  #cover: http://img.youtube.com/vi/TZcrmyaj2XA/0.jpg
+  youtube: https://www.youtube.com/embed/TZcrmyaj2XA
   description: Assistor PS is a desktop program designed to help designers comfortably use things that are often used in Photoshop.
   role: I developed some features in component units. And I've developed a store for sale.
   skills: C#, MS Azure, Apache, ASP.NET, Paygate, MS-SQL  
@@ -153,8 +153,8 @@
   corp: wit studio
   duration: Jan, 2013 &mdash; Feb, 2013
   url: https://witstudio.tistory.com/category/Grappic
-  cover: http://img.youtube.com/vi/EW2h7dz6Hhw/0.jpg
-  #youtube: https://www.youtube.com/embed/EW2h7dz6Hhw
+  #cover: http://img.youtube.com/vi/EW2h7dz6Hhw/0.jpg
+  youtube: https://www.youtube.com/embed/EW2h7dz6Hhw
   description: Designers refer to a number of references to design apps. Grappic is an app for designers that organizes the design of all the apps registered in the app store.
   role: I developed iOS and Android apps by myself using Xamarin. And I developed the server and Rest API.
   skills: Xamarin Studio(Mono Develop), C#, MySQL, CentOS, Apache  
@@ -177,8 +177,8 @@
   corp: Samsung Electronics MSC
   duration: Oct, 2011 &mdash; Oct, 2012
   url: https://www.samsung.com/us/2012-allshare-play
-  cover: http://img.youtube.com/vi/P67r4uV1iC0/0.jpg
-  #youtube: https://www.youtube.com/embed/P67r4uV1iC0
+  #cover: http://img.youtube.com/vi/P67r4uV1iC0/0.jpg
+  youtube: https://www.youtube.com/embed/P67r4uV1iC0
   description: Cloud version of AllShare, which is available on other networks than the same network.
   role: I was dedicated to developing a library that extracts meta information from various media. And I devleoped a MacOS version of this.
   skills: WPF, UPnP (DLNA), C#, Java, OSX, MFC/C++
@@ -189,8 +189,8 @@
   corp: Samsung Electronics MSC
   duration: Dec, 2010 &mdash; Sep, 2011
   url: https://www.youtube.com/watch?v=xBhFE4vzpFE
-  cover: http://img.youtube.com/vi/xBhFE4vzpFE/0.jpg
-  #youtube: https://www.youtube.com/embed/xBhFE4vzpFE
+  #cover: http://img.youtube.com/vi/xBhFE4vzpFE/0.jpg
+  youtube: https://www.youtube.com/embed/xBhFE4vzpFE
   description: This is PC software that has all the DMC, DMS, and DMP functions of DLNA.
   role: At that time, we used the DLNA stack made by the research institute. There were so many problems that I re-developed the DLNA stack by ourselves. This stack is still being used by Samsung as I know. Except for UI , I dedicated the development of DLNA Engine and Library.
   skills: WPF, UPnP (DLNA), C#, Java
