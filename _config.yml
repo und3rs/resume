@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Sungwook Kim"
+resume_name:                    "unD3Rs"
 resume_title:                   "Make the world more convinient!"
 
 # used for the contact button in _layouts/resume.html
