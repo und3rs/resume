@@ -3,7 +3,7 @@
 - project: Zepeto Open API
   id: zepeto_open_api
   corp: SNOW corp.
-  duration: Mar, 2019 - Now
+  duration: Mar, 2019 - Present
   # url: "#"
   description: Zepeto is a 3D avatar App that is very popular globally. Many 3rd party applications wants to use contents and functions of Zepeto. So we need to make 3D Rendering API service that provides avatar images with headless GPU machines.
   role: I'm building some clusters in several regions with kubernetes and making a system architecture for to use GPU servers efficiently by myself.
