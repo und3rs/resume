@@ -3,7 +3,7 @@
 - company: SNOW corp.
   ci: ./corp/snow.png
   url: https://snowcorp.com
-  position: Developer
+  position: Principal Developer
   duration:  May, 2017  &mdash; Now
   summary: My department of LINE+ was merged with SNOW.
   
@@ -11,7 +11,7 @@
 - company: LINE+ corp.
   ci: ./corp/line.jpg
   url: https://linepluscorp.com
-  position: Developer
+  position: Principal Developer
   duration:  Aug, 2014  &mdash; Apr, 2017
   summary: LINE+ corp that is subsidiary company of NAVER has <a href="https://news.joins.com/article/15376773" target="_blank">taken over</a> Wit Studio.
   
