@@ -5,10 +5,10 @@
   description: C/C++, C#/WPF, Java, PHP, Python, javascript, HTML, MFC, NASM, MASM32, O-Caml, Swift, Objective-C, Kotlin, etc
  
 - skill: OS & Frameworks
-  description: CentOS, Mono, Laravel, Django, Phalcon, Android, macOS, Tensorflow, etc
+  description: CentOS, Mono, Laravel, Django, Kubernets, Docker, Phalcon, Android, macOS, Tensorflow, NodeJS, etc
   
 - skill: Databases
   description: MySQL, SQLite, MSSQL, Redis, MongoDB
   
-- skill: Abilities
-  description: Kubernets, Deep-Learning, System Infra Construction & Management, Service Architecture Building, Reverse Enginerring, System Security, Networking, Web Development, PC Software Development, Mobile App Development and Anything you want.
+- skill: Abilities & Role
+  description: AI(Deep-learning) Developement, Infrastructure Architect & Management, Server Delopment, Reverse Enginerring, System Security, Networking, Web Development, PC Software Development, Mobile App Development, Team Management and Anything you want.
