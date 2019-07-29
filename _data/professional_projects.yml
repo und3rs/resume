@@ -24,10 +24,23 @@
   skills: NodeJS, MongoDB, Redis, GameSparks
 
 
+- project: Zepeto Brain API
+  id: zepeto_brain_api
+  corp: SNOW corp.
+  duration: Sep, 2018 - Dec, 2018
+  contribution: 100
+  url: https://play.google.com/store/apps/details?id=me.zepeto.main
+  cover: portfolio/2018/zepeto/sample.png
+  description: Restful-API based on GPU.
+  role: Developed Restful-API base on GPU. The service has handled around 8,000,000 requests a day. I built the server with Alibaba Cloud(like AWS) myself.
+  skills: Django, Nginx, Alibaba Cloud(like AWS), Tensorflow
+
+
+
 - project: Zepeto Brain (AI)
   id: zepeto_brain
   corp: SNOW corp.
-  duration: Dec, 2017 - Dec, 2018
+  duration: Dec, 2017 - Aug, 2018
   contribution: 100
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
