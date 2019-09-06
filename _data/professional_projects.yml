@@ -113,6 +113,7 @@
   corp: LINE+ corp.
   contribution: 100
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook/README.md
+  cover: https://github.com/und3rs/resume/raw/gh-pages/portfolio/2015/coloringbook/coloringbook_main.png
   duration: Aug, 2015 &mdash; Sep, 2015
   description: This is a prototype project.
   role: Developed with a designer. It didn't be published.
@@ -124,6 +125,7 @@
   corp: LINE+ corp.
   contribution: 100
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat/README.md
+  cover: https://github.com/und3rs/resume/raw/gh-pages/portfolio/2015/toonchat/toonchat_2.png
   duration: Mar, 2015 &mdash; Jly, 2015
   description: Toon Chat App is a messenger that shows messages looks like a comic book. This is a prototype project and not be published.
   role: Developed android App and service server.
