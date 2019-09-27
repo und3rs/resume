@@ -5,6 +5,7 @@
   duration: Apr, 2014 &mdash; Present
   url: https://caz.smartholic.com
   cover: images/smartcaz.jpg
+  position: Mobile Native, Backend/Server
   description: This is an app for vehicle management. At the time of development, there was no app that I wanted. I felt the need for this, so I developed it myself. It wasn't easy time to go to work and develop alone. This app is currently registered in the store. Image resource work was commissioned by the designer a month before the release in part-time format.
   skills: Android, Google Firebase, CentOS, MySQL, Redis, REST API, Phalcon, PHP
 
@@ -12,6 +13,7 @@
 - project: OTG Reverse Engineering
   id: otg
   duration: Apr, 2018
+  position: Mobile Native
   description: I had purchased some academic videos were provided in OTG format. So when I saw the video, I had to plug the OTG into my cell phone every time. It was too uncomfortable so I made a Fake OTG in reverse engineering so that I can see a video in a cell phone without OTG.
   skills: Android, smali
 
@@ -21,6 +23,7 @@
   cover: images/netduiono.jpg
   url: https://crystalcube.co.kr/134
   duration: May, 2014
+  position: Embeded
   description: I have been interested in hardware since I was in elementary school. I happened to know a board called Netduino, and I created an alarm that I could control online. In addition, I've tried to make things like USB Mass Storage with Netduino.
   skills: .NET Micro Framework, Netduino
 
@@ -28,6 +31,7 @@
 - project: Game BOT
   id: gamebot
   duration: 2012
+  position: Desktop Native
   description: When the "모두의 게임" was in vogue, I made a BOT with C# for fun to get high scores. I usually enjoy programming something like this for fun.
   skills: C#
 
@@ -36,6 +40,7 @@
   id: wiimote
   duration: Jul, 2012
   url: https://crystalcube.co.kr/101?category=608573
+  position: Desktop Native
   description: I usually watching movies on the computer at home. Sometimes, when I watch a movie, I have to operate a computer, and it was very inconvenient to go closly to the computer and controll it. As I happen to have a Wiimote controller at home, I made a remote control for PC using Bluetooth.
   skills: Bluetooth, C#
   
@@ -43,6 +48,7 @@
 - project: 3D Virtual Trip
   id: virtual_trip
   duration: Sep, 2008 &mdash; Aug, 2009
+  position: Desktop Native
   description: This was a college graduation portfolio. As you can see from the name Virtual Trip, it's a program that makes virtual travel. Like the current Google Street view, I created 3D space with WPF. This image is output via the Head Mounted Display (HMD) to give you a sense of reality. And I made a triangular arrangement of instruments using three IR LED. This light is read through the IR receiver of Nintendo Wii to get location information for three points. The value analysis detects changes in Yaw, Pitch, and Roll. I apply this change to the 3D space, and it gives us the illusion that it's actually there. And then, by attaching a gastromot to the legs, I realized that I was walking, so that I could move a virtual distance. Now there are many VR devices like Oculus, but the first time I started this project was in 2008 and I thought creatively that I did it. In order to track the movement of the head more accurately, I changed the tracking method from IR sensor to gyro sensor.
   skills: WPF, C#, HardWare, Bluetooth
   
@@ -50,6 +56,7 @@
 - project: Handover Network Driver
   id: handover
   duration: Mar, 2008 - Jun, 2008
+  position: Desktop Native
   description: This project was conducted while I was in Samsung software membership. If you switch to Wi-Fi to move a wired LAN to a laptop, the connection will be lost. In this case, a HandOver driver was developed to ensure uninterrupted communication of the network.
   skills: NDIS, Windows mini-port driver, C/C++
 
@@ -57,6 +64,7 @@
 - project: Memorize Game
   id: memorize
   duration: Jun, 2008
+  position: Desktop Native
   url: https://crystalcube.co.kr/category/%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/MemorizeGame
   description: This is a simple game made using ocaml. It's a kind of memorize game where you memorize the random sequence of buttons that your computer presses, and you press them the same order.
   skills: ocaml
@@ -65,6 +73,7 @@
 - project: Realtime GPS shuttle tracking system
   id: gps
   duration: Jun, 2008 &mdash; Nov, 2008
+  position: Desktop Native
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2007/gps_remote_naviation/README.md
   description: This project is similar to the current bus location tracking app. It was a project in 2008, and it didn't have this concept at the time. Connect a USB-type GPS serial module and WiBro to your laptop and send location information from GPS to the main server. Google Maps will place a marker on that location so that the recipient can know the location in real time. Later I took part in exhibition in the school and received a business proposal from a professor of transportation engineering.
   skills: C#, Ajax/Javascript, MySQL, GPS(wgs84)
@@ -73,6 +82,7 @@
 - project: Reverse Engineering
   id: reverse_engineering
   duration: Apr, 2005
+  position: Desktop Native
   description: I did reverse engineering somthing at the request of an acquaintance.
   skills: Assembly/Decompile, OllyDbg
   
