@@ -253,8 +253,10 @@
   url: https://www.youtube.com/watch?v=xBhFE4vzpFE
   contribution: 60
   position: Library Developing, Stack Developing
+  url: https://www.google.com/search?q=allshare+pc+sw&newwindow=1&source=lnms&tbm=isch
+  cover: https://kr.sungwook.kim/images/AllShare.jpg
   #cover: http://img.youtube.com/vi/xBhFE4vzpFE/0.jpg
-  youtube: https://www.youtube.com/embed/xBhFE4vzpFE
+  #youtube: https://www.youtube.com/embed/xBhFE4vzpFE
   description: This is PC software that has all the DMC, DMS, and DMP functions of DLNA.
   role: At that time, we used the DLNA stack made by the research institute. There were so many problems that I re-developed the DLNA stack by ourselves. This stack is still being used by Samsung as I know. Except for UI , I dedicated the development of DLNA Engine and Library.
   skills: WPF, UPnP (DLNA), C#, Java
