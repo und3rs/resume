@@ -4,6 +4,7 @@
   id: zepeto_open_api
   corp: SNOW corp.
   duration: Mar, 2019 - Present
+  position: Backend/Server, Architecting, Managing
   # url: "#"
   contribution: 100
   description: Zepeto is a 3D avatar App that is very popular globally. Many 3rd party applications wants to use contents and functions of Zepeto. So we need to make 3D Rendering API service that provides avatar images with headless GPU machines.
@@ -16,6 +17,7 @@
   corp: SNOW corp.
   duration: Jan, 2019 - Feb, 2019
   contribution: 20
+  position: Backend, Frontend
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   #cover: http://img.youtube.com/vi/n0llsGlXT_U/0.jpg
   youtube: https://www.youtube.com/embed/n0llsGlXT_U
@@ -29,6 +31,7 @@
   corp: SNOW corp.
   duration: Sep, 2018 - Dec, 2018
   contribution: 100
+  position: Backend/Server, Architecting, Managing
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
   description: Restful-API based on GPU.
@@ -42,6 +45,7 @@
   corp: SNOW corp.
   duration: Dec, 2017 - Aug, 2018
   contribution: 100
+  position: Deep-learning, Modeling, Training
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
   description: The Zepeto generates the pretty 3D human avatar that looks like a user from a single image.
@@ -54,6 +58,7 @@
   corp: LINE+ corp.
   duration: Oct, 2017 &mdash; Nov, 2017
   contribution: 100
+  position: Mobile Library Developing
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait/README.md
   cover: portfolio/2017/Parfait/b612.jpg
   description: The Parfait is a Voice Changer Engine based on DSP(Digital Signal Processing) written in C++. This engine is including over 22 DSP filters such as Fuzz, Distortion, Harmonic. SNOW App and B612 App are using this engine for to change voice sound.
@@ -66,6 +71,7 @@
   corp: SNOW corp.
   duration: Feb, 2017 - Sep, 2017
   contribution: 20
+  position: Library Developing
   url: https://play.google.com/store/apps/details?id=com.playlist.portra
   #cover: http://img.youtube.com/vi/tPCdqD4pWVw/0.jpg
   youtube: https://www.youtube.com/embed/tPCdqD4pWVw
@@ -79,6 +85,7 @@
   corp: LINE+ corp.
   duration: Sep, 2016 &mdash; Jan, 2017
   contribution: 80
+  position: Frontend, Backend
   url: https://store.linefriends.co.kr
   description: The payment system of this store has been pretty slow so needed renew.
   role: I did renew the website using wordpress with a coworker.
@@ -90,6 +97,7 @@
   corp: LINE+ corp.
   duration: Jan, 2016 &mdash; Aug, 2016
   contribution: 100
+  position: Mobile Native, Backend/Server
   url: https://linecorp.com/en/pr/news/en/2016/1363
   cover: portfolio/2016/egg/egg.jpg
   description: The egg is a camera App such as B612 and SNOW App.
@@ -101,6 +109,7 @@
   id: line_creators
   corp: LINE+ corp.
   contribution: 70
+  position: Backend/Server
   url: https://store.line.me
   duration: Oct, 2015 &mdash; Dec, 2015
   description: Line creators is a portal for not only to assist users in creating stickers but also to sale sticker.
@@ -112,6 +121,7 @@
   id: coloring_book
   corp: LINE+ corp.
   contribution: 100
+  position: Mobile Native
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook/README.md
   cover: https://github.com/und3rs/resume/raw/gh-pages/portfolio/2015/coloringbook/coloringbook_main.png
   duration: Aug, 2015 &mdash; Sep, 2015
@@ -124,6 +134,7 @@
   id: toon_chat
   corp: LINE+ corp.
   contribution: 100
+  position: Mobile Native, Backend/Server
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat/README.md
   cover: https://github.com/und3rs/resume/raw/gh-pages/portfolio/2015/toonchat/toonchat_2.png
   duration: Mar, 2015 &mdash; Jly, 2015
@@ -137,6 +148,7 @@
   corp: LINE+ corp.
   duration: Nov, 2014 &mdash; Feb, 2015
   contribution: 100
+  position: Mobile Native, Backend/Server
   description: The shot 44.3 is a simplest messenger App. User only can send a image as a message without text. This project is a prototype and not be published.
   role: Developed android App.
   skills: Android
@@ -146,6 +158,7 @@
   id: design_resource_archiving
   corp: LINE+ corp.
   contribution: 100
+  position: Frontend, Backend/Server
   duration: Aug, 2014 &mdash; Sep, 2014
   description: It is a company-specific project that was commissioned by the design team. Designers were randomly storing their resources in public storage. We needed a site that could tag, search, and see the full list with thumbnail image anywhere.
   role: Developed a parser of *.psd(Adobe photoshop file format) and a extractor for resources meta data.
@@ -157,6 +170,7 @@
   corp: wit studio
   duration: Feb, 2014 &mdash; May, 2014
   contribution: 100
+  position: Desktop Native
   url: https://witstudio.tistory.com/257
   cover: portfolio/2014/syncor/syncor.png
   description: Syncor is a desktop application that streams a desktop screen as APNG. This allows the client to view the streamed screen without a special program.
@@ -169,6 +183,7 @@
   corp: wit studio
   duration: Mar, 2013 &mdash; Jan, 2014
   contribution: 40
+  position: Desktop Native, Backend
   url: https://witstudio.tistory.com/search/assist
   #cover: http://img.youtube.com/vi/TZcrmyaj2XA/0.jpg
   youtube: https://www.youtube.com/embed/TZcrmyaj2XA
@@ -183,6 +198,7 @@
   duration: Jan, 2013 &mdash; Feb, 2013
   url: https://witstudio.tistory.com/category/Grappic
   contribution: 100
+  position: Mobile Native, Backend
   #cover: http://img.youtube.com/vi/EW2h7dz6Hhw/0.jpg
   youtube: https://www.youtube.com/embed/EW2h7dz6Hhw
   description: Designers refer to a number of references to design apps. Grappic is an app for designers that organizes the design of all the apps registered in the app store.
@@ -197,6 +213,7 @@
   #youtube: https://www.youtube.com/embed/w2_VBRBLllc?list=UUQ9_lJbli2JykP1phzIDDfg
   url: https://witstudio.tistory.com/149
   contribution: 10
+  position: Desktop Native
   duration: Nov, 2012 &mdash; Dec, 2012
   description: Coordinator is a graphical program with UI similar to Adobe Photoshop. However, it takes a lot of effort to develop various UI with Photoshop. And it's not easy to do the modifications. The coordinator is a designer program that can compensate for these shortcomings.
   role: I was in charge of some of the UI and I developed a photoshop file (.psd) parser with javascript.
@@ -209,6 +226,7 @@
   duration: Oct, 2011 &mdash; Oct, 2012
   url: https://www.samsung.com/us/2012-allshare-play
   contribution: 40
+  position: Desktop Native, Library Developing
   #cover: http://img.youtube.com/vi/P67r4uV1iC0/0.jpg
   youtube: https://www.youtube.com/embed/P67r4uV1iC0
   description: Cloud version of AllShare, which is available on other networks than the same network.
@@ -222,6 +240,7 @@
   duration: Dec, 2010 &mdash; Sep, 2011
   url: https://www.youtube.com/watch?v=xBhFE4vzpFE
   contribution: 60
+  position: Library Developing, Stack Developing
   #cover: http://img.youtube.com/vi/xBhFE4vzpFE/0.jpg
   youtube: https://www.youtube.com/embed/xBhFE4vzpFE
   description: This is PC software that has all the DMC, DMS, and DMP functions of DLNA.
@@ -234,6 +253,7 @@
   corp: Samsung Electronics MSC
   duration: Jan, 2010 &mdash; Nov, 2010
   contribution: 15
+  position: Desktop Native
   url: https://www.samsungsvc.co.kr/online/faqView.do?domainId=NODE0000033866&node_Id=NODE0000124882&faqId=KNOW0000002908
   description: KIES is an integrated program that provides many functions related to mobile phones, including DLNA, such as photo, video editing, and copying files between cell phones and PC.
   role: I maintained functions related to DLNA.
@@ -244,6 +264,7 @@
   id: wit_studio_homepage
   corp: wit studio
   contribution: 100
+  position: Frontend, Backend
   duration: Nov, 2009 &mdash; Dec, 2009
   description: Before the establishment of the corporation, I built a team with three acquaintances.
   role: Developed website of witstudio.
@@ -255,6 +276,7 @@
   corp: Korean Association of Newspapers
   url: http://www.presskorea.or.kr
   contribution: 40
+  position: Desktop Native
   duration: Nov, 2009 &mdash; Dec, 2009
   description: This is an outsourced project. We re-created an administrator program that had been implemented with the existing Visual C++ into the WPF. This program is used internally by the Newspaper Association.
   role: I worked with one other developer to develop UI and bind data.
@@ -266,6 +288,7 @@
   corp: Samsung Manufacturing Technology Center
   duration: Aug, 2009 &mdash; Dec, 2009
   contribution: 40
+  position: Desktop Native
   description: SMIS is a monitoring system that receives information from DB and displays it in tables, charts, and graphs.
   role: I developed a module that shows data in charts and tables.
   skills: WPF, C#, MSSQL
@@ -276,6 +299,7 @@
   corp: Samsung Advanced Institute of Technology
   duration: Apr, 2009 &mdash; Jun, 2009
   contribution: 35
+  position: Desktop Native
   description: Through the membership of Samsung software, I was able to do this project. Ambient Wall is a 2009 Samsung Technology Exhibition project. As a future home space, one wall has a screen. You can make a video call or view weather information or maps on this screen. All control is possible through motion recognition.
   role: I was responsible for controlling and showing the map with motion information.
   skills: C#, WPF
@@ -289,6 +313,7 @@
   #cover: portfolio/2008/TableTop/imagecode.jpg
   video: portfolio/2008/TableTop/TableTop.mp4
   contribution: 50
+  position: Desktop Native
   description: Through the membership of Samsung software, I was able to do this project. Tabletop is a 2008 Samsung Technology Exhibition project that developed contents for desktop computers.
   role: I developed an app and a desktop server that send and receive files using QR-Code. And I developed a function that expresses the beat of music with a vibrator called Shacker.
   skills: Windows Mobile, .NET, Bluetooth
@@ -299,6 +324,7 @@
   corp: Gunpo City in Gyeonggi-do
   duration: Nov, 2008 &mdash; Dec, 2008
   contribution: 100
+  position: Frontend, Backend
   url: http://www.happygp.or.kr
   description: It was a project that ported the homepage of ASP to PHP.
   role: I did it alone in part-time.
@@ -309,6 +335,7 @@
   id: sonusent
   corp: SonusEnt corp.
   contribution: 100
+  position: Frontend, Backend
   duration: Sep, 2007 &mdash; Dec, 2007
   description: It is a web site of SonusEnt corp.
   role: It's a solo project. I personally hired a designer on a part-time basis. We created a company web site and a CMS page for management.
@@ -321,6 +348,7 @@
   url: portfolio/2006/makeshop/makeshop.jpg
   duration: Jun, 2006 &mdash; Jly, 2006
   contribution: 80
+  position: Frontend
   description: This project was carried out through cooperation between the Make Shop, an Internet shopping mall construction company, and Hanyang University.
   role: I built a shopping mall using a make shop with a my friend.
   skills: html, javascript, Makeshop
