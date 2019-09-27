@@ -1,9 +1,21 @@
 # Projects
 
+- project: Service Infra Platform (PasS)
+  id: service_infra_platform
+  corp: SNOW corp.
+  duration: Aug, 2019 - Now
+  position: Backend/Server, Architecting, Managing
+  # url: "#"
+  contribution: 80
+  description: Content Management Service for general purpose. Cloning project of contentful.com service.
+  role: My role is all of this except web frontend. Building a cluster on Alibaba Cloud, architecking, developing backend, team/project managing and so on.
+  skills: Kubernetes, Docker, CentOS, Helm Chart, NodeJS, MongoDB, javascript ES6, Alibaba Cloud(AWS)
+  
+  
 - project: Zepeto Open API
   id: zepeto_open_api
   corp: SNOW corp.
-  duration: Mar, 2019 - Present
+  duration: Mar, 2019 - Jly, 2019
   position: Backend/Server, Architecting, Managing
   # url: "#"
   contribution: 100
