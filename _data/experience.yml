@@ -1,10 +1,17 @@
 # Jobs
   
+- company: NAVERZ
+  ci: ./corp/naver.png
+  position: Software Developer
+  duration:  May, 2020  &mdash; Now
+  summary: Our team <a href="https://www.sedaily.com/NewsVIew/1Z2MCCEA9A" target="_blank">spun off</a> from the company SNOW.
+  
+  
 - company: SNOW corp.
   ci: ./corp/snow.png
   url: https://snowcorp.com
   position: Principal Developer
-  duration:  May, 2017  &mdash; Now
+  duration:  May, 2017  &mdash; Apr, 2020
   summary: My department of LINE+ was merged with SNOW.
   
   
