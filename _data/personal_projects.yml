@@ -1,5 +1,20 @@
 # Individual Projects
 
+- project: Private
+  duration: June, 2019 &mdash; Now
+  position: Mobile Native, Backend/Server
+  description: Currently, more than 90% of the apps are completed, but I can't reveal them because they haven't been released yet. I've been doing all from design to developing. I'm constantly developing it using weekend or evening time.
+  skills: Android, Google Firebase, Firebase functions, Firebase Storage, MongoDB(atlas), NodeJS(express), Kotlin, Android Jetpack
+  
+
+- project: Voltage Meter
+  duration: Apr, 2020
+  cover: images/voltage.png
+  position: Hardware
+  description: This is a voltage meter that I made as a hobby. Finally, I made it with ATTiny84 MCU and 8 digest leds, and I moved it from the breadboard to the PVC board.
+  skills: Arduino, ATTiny84 MCU
+  
+  
 - project: Smart Caz
   id: smartcaz
   duration: Apr, 2014 &mdash; Sep, 2020
