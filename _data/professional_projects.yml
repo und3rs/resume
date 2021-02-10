@@ -17,6 +17,7 @@
   contribution: 100
   position: Backend/Server, Architecting, Managing
   url: https://zepetoful.zepeto.io
+  cover: images/zepetofu.png
   description: A platform that generates and serves all the content of the Zepeto service. Manage content resources for all services, including Zepeto App, Zepeto World, and Zepeto Creators.
   role: The platform has all been migrated from the external platform used by the existing Zepeto service to this platform. I am developing and operating management server, cache server, file server, web hook server, etc. using Kubernets, CDN, OSS, MongoDB, Redis, OAuth, etc. We operate a total of 40 servers by separating two clusters in China and the global community.
   skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, MongoDB, Redis, Alibaba Cloud(AWS), DataDog
