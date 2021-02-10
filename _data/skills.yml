@@ -11,7 +11,7 @@
   description: AI(Deep-learning) Developement, Infrastructure Architect & Management, Server Delopment, Reverse Enginerring, System Security, Networking, Web Development, PC Software Development, Mobile App Development, Team Management and Anything you want.
 
 - skill: About server
-  description: Many experiences in developing and operating services alone that handle more than 100 million requests a day. Experience running up to 100 servers per month at the same time. Real-time 365-day monitoring and operational experience using DataDog and Prometheus. Design, develop, and operate mongodb schema and distributed processing systems for big data processing. Proficient in service in Kubernetes environment. Proficient in AWS service.
+  description: Many experiences in developing and operating services alone that handle more than 100 million requests a day. Experience running up to 100 servers per month at the same time. Real-time 365-day monitoring and operational experience using DataDog, Prometheus and kafka. Design, develop, and operate mongodb schema and distributed processing systems for big data processing. Proficient in service in Kubernetes environment. Proficient in AWS service.
 
 - skill: About App
   description: Experience in service development/operation in a Google firebase environment. Exclusive development, launch, and operation experience all of apps. Developed using the latest trends such as Jetpack, Kotlin, Dagger (Hilt), ViewBinding, Room, etc.
