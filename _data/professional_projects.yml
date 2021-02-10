@@ -1,5 +1,16 @@
 # Projects
 
+- project: Zepeto Image Rendering API Server ver 3.0
+  corp: NAVERZ Corp.
+  duration: Dec, 2020 - Now
+  contribution: 90
+  position: Backend/Server, Architecting, Managing
+  url: https://render-swagger.zepeto.io/gateway
+  description: This is a service server that generates and provides character image files from Geppetto Services. To help minimize GPU resources and extend capabilities, all architectures in the existing ver 2.0 have been abandoned and newly developed.
+  role: It consists with a total of 8 micro services, including api-gateway, service-api, core-api, extension-api, admin-api, renender, etc. Each api has a separate cache to minimize GPU usage. It operates as a global cluster with China, and has about 60 units including GPU/CPU server domination. 40 to 50 million images per every day for each cluster. There are about 100 million cases in total. The failure rate is around 0.00003%. (Linked pages are some publicly available pages)
+  skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, Redis, RabbitMQ, Alibaba Cloud(AWS), Swagger, DataDog
+  
+  
 - project: Zepeto Service Platform Developing and Managing(PaaS)
   corp: SNOW corp. / NAVERZ corp.
   duration: Jan, 2020 - Now
@@ -20,6 +31,17 @@
   description: A service server that generates and provides character image files in Zepeto service. Any place other than the app provides the image to the user using the API.
   role: It was newly established as NodeJS for maintenance and performance improvement of ver 1.0 which was established with Python. More than 1.5 million images are drawn for users worldwide every day. It operates as a global cluster with China, and it is about 60 units including GPU/CPU server.
   skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, Redis, Alibaba Cloud(AWS), Swagger, DataDog
+  
+  
+- project: Zepeto Studio
+  corp: NAVERZ Corp.
+  duration: Dec, 2019 - Feb, 2020
+  contribution: 5
+  position: Backend/Server, Architecting
+  url: https://studio.zepeto.me/kr
+  description: It is a service server where zepeto users can produce and sell items in Zepeto service. We used zepetoful and renderapi, previously developed service infrastructure platforms. After participating in the initial team building and development, I personally got busy with other tasks and stopped it.
+  role: admin server(restful api)
+  skills: Docker, Spring Boot, CentOS, Helm, Swagger
   
   
 - project: Service Infra Platform (PaaS)
