@@ -5,10 +5,10 @@
   description: Kotlin, Java, javascript(ES6), PHP, Python, C#/WPF, Objective-C, C/C++, Lua script, Swift, O-Caml, HTML, MFC, NASM, MASM32 etc
  
 - skill: OS & Frameworks / Database / Solution
-  description: CentOS, MongoDB, Redis, RabbitMQ, Android, Tensorflow, Kubernetes, Docker, AWS, Alibaba Cloud, NodeJS, Dagger, Hilt, Swagger, Datadog, Prometheus, Mono, Laravel, Django, MySQL/SQLite/MSSQL, Phalcon etc
+  description: CentOS, MongoDB, Spring Boot, Kafka, Redis, RabbitMQ, Android, Tensorflow, Kubernetes, Docker, AWS, Alibaba Cloud, NodeJS, Dagger, Hilt, Swagger, Datadog, Prometheus, Mono, Laravel, Django, MySQL/SQLite/MSSQL, Phalcon etc
   
 - skill: Abilities & Role
-  description: AI(Deep-learning) Developement, Infrastructure Architect & Management, Server Delopment, Reverse Enginerring, System Security, Networking, Web Development, PC Software Development, Mobile App Development, Team Management and Anything you want.
+  description: AI(Deep-learning) Developement, Infrastructure Architect & Management, Server Delopment, Reverse Enginerring, System Security, Networking, Web Development, PC Software Development, Mobile App Development, Team Management, Service Server Operating and Anything you want.
 
 - skill: About server
   description: Many experiences in developing and operating services alone that handle more than 100 million requests a day. Experience running up to 100 servers per month at the same time. Real-time 365-day monitoring and operational experience using DataDog, Prometheus and kafka. Design, develop, and operate mongodb schema and distributed processing systems for big data processing. Proficient in service in Kubernetes environment. Proficient in AWS service.
