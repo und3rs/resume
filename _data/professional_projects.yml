@@ -1,4 +1,12 @@
 # Projects
+- project: AI Service Platform
+  corp: NAVERZ Corp.
+  duration: Feb, 2021 - Now
+  contribution: 80
+  position: Architecting, Backend/Server, Managing, Operating
+  description: It is a general-purpose service platform that can be used for all Geppetto AI services. When an AI (ML) development team services with a new (or updated) service ML model, it is a general-purpose platform that can actually serve just by uploading that model.
+  role: Around kafka, a number of micro services operate fluidly on Kubernetes.
+  skills: Kubernetes, Docker, CentOS, Spring Boot, Kafka, Alibaba Cloud(AWS), Swagger, DataDog
 
 - project: Zepeto Image Rendering API Server ver 3.0
   corp: NAVERZ Corp.
