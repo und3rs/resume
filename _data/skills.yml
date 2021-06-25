@@ -5,7 +5,7 @@
   description: Kotlin, Java, javascript(ES6), PHP, Python, C#/WPF, Objective-C, C/C++, Lua script, Swift, O-Caml, HTML, MFC, NASM, MASM32 etc
  
 - skill: OS & Frameworks / Database / Solution
-  description: CentOS, MongoDB, Spring Boot, Kafka, Redis, RabbitMQ, Android, Tensorflow, Kubernetes, Docker, AWS, Alibaba Cloud, NodeJS, Dagger, Hilt, Swagger, Datadog, Prometheus, Mono, Laravel, Django, MySQL/SQLite/MSSQL, Phalcon etc
+  description: CentOS, MongoDB, Spring Boot(Webflux + Kotlin-coroutine), Kafka, Redis, RabbitMQ, Android, Tensorflow, Kubernetes, Docker, AWS, Alibaba Cloud, NodeJS, Dagger, Hilt, Swagger, Datadog, Prometheus, Mono, Laravel, Django, MySQL/SQLite/MSSQL, Phalcon etc
   
 - skill: Abilities & Role
   description: AI(Deep-learning) Developement, Infrastructure Architect & Management, Server Delopment, Reverse Enginerring, System Security, Networking, Web Development, PC Software Development, Mobile App Development, Team Management, Service Server Operating and Anything you want.
