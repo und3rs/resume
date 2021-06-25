@@ -1,5 +1,16 @@
 # Projects
+- project: MLOPS
+  id: mlops
+  corp: NAVERZ Corp.
+  duration: Mar, 2021 - Now
+  contribution: 100
+  position: Architecting, Backend/Server, Managing, Operating
+  description: MLOPS project.
+  role: Whole project developer.
+  skills: Kubernetes, Docker, CentOS, Spring Boot, Webflux, GraphQL, Alibaba Cloud(AWS), Swagger, DataDog
+  
 - project: AI Service Platform
+  id: zasp
   corp: NAVERZ Corp.
   duration: Feb, 2021 - Now
   contribution: 80
@@ -9,6 +20,7 @@
   skills: Kubernetes, Docker, CentOS, Spring Boot, Kafka, Alibaba Cloud(AWS), Swagger, DataDog
 
 - project: Zepeto Image Rendering API Server ver 3.0
+  id: renderapiv2
   corp: NAVERZ Corp.
   duration: Dec, 2020 - Now
   contribution: 90
@@ -20,6 +32,7 @@
   
   
 - project: Zepeto Service Platform Developing and Managing(PaaS)
+  id: zepetoful
   corp: SNOW corp. / NAVERZ corp.
   duration: Jan, 2020 - Now
   contribution: 100
