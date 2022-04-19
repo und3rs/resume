@@ -6,8 +6,8 @@
   contribution: 100
   position: Architecting, Backend/Server, Managing, Operating
   description: MLOPS project.
-  role: Whole project developer.
-  skills: Kubernetes, Docker, CentOS, Spring Boot, Webflux, GraphQL, Alibaba Cloud(AWS), Swagger, DataDog
+  role: Whole project developer without FE
+  skills: Kubernetes, Docker, CentOS, Spring Boot, Webflux, GraphQL, Alibaba Cloud(AWS), Swagger, DataDog, Tensorflow(keras), gRPC
   
 - project: AI Service Platform
   id: zasp
