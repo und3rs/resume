@@ -9,7 +9,7 @@
   position: Project Manager, Project Owner, Planning, Architecting, Backend/Server
   description: A universal service that creates a service (?)
   role: As a team leader, project manager, planning, and backend development are all. Except for FE development
-  skill: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, Docker, RabbitMQ
+  skills: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, Docker, RabbitMQ
   
 - project: SSO
   id: sso
@@ -19,7 +19,7 @@
   position: Project Manager, Project Owner, Architecting, Backend/Server
   description: SSO project to consolidate logins for numerous services in the team
   role: As a team leader, project manager, planning, and backend development are all. Except for FE development
-  skill: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, OAuth2.0, OpenID Connect, SSO (내부 사정으로 Spring Security 없이 Spec 대로 직접 구현)
+  skills: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, OAuth2.0, OpenID Connect, SSO (내부 사정으로 Spring Security 없이 Spec 대로 직접 구현)
 
 - project: CNR
   id: cnr
@@ -29,7 +29,7 @@
   position: Project Manager, Project Owner, Architecting, Backend/Server
   description: Universal CMS service in SaaS.
   role: As a team leader, you are the project manager, planning, and backend development
-  skill: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis
+  skills: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis
   
 - project: Render-it
   id: renderit
