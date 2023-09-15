@@ -3,9 +3,11 @@
 
 - project: Hyperfuncs
   id: hyperfuncs
+  cover: images/hyperfuncs.png
+  url: https://hyperfuncs.m2s.team
   corp: NAVERZ Corp.
   duration: May, 2023 - Now
-  workers: "Backend:1(me), Frontend:2, Planning:1, Design: 1"
+  workers: "Backend:1(me), Frontend:3, Planning:1, Design: 1"
   position: Project Manager(100%), Project Owner(100%), Planning(70%), Architecting(100%), Backend/Server(99%)
   description: A universal service that creates a service (?)
   role: As a team leader, project manager, planning, and backend development are all. Except for FE development
@@ -14,7 +16,7 @@
 - project: SSO
   id: sso
   corp: NAVERZ Corp.
-  duration: May, 2023 - Now
+  duration: May, 2023 - Jun
   workers: "Backend:1(me), Frontend:1"
   position: Project Manager(100%), Project Owner(100%), Architecting(100%), Backend/Server(100%)
   description: SSO project to consolidate logins for numerous services in the team
