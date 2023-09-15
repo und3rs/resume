@@ -9,7 +9,7 @@
   duration: May, 2023 - Now
   workers: "Backend:1(me), Frontend:3, Planning:1, Design: 1"
   position: Project Manager(100%), Project Owner(100%), Planning(70%), Architecting(100%), Backend/Server(99%)
-  description: A universal service that creates a service (?)
+  description: Hyperfuncs is a platform that can easily build stable API server without professional server developer. With only few codes, you can create a powerful service server. Also You can use visualized composers and easy to check the all data flow.
   role: As a team leader, project manager, planning, and backend development are all. Except for FE development
   skills: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, Docker, RabbitMQ
   
