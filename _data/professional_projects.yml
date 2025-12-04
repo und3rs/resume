@@ -1,13 +1,26 @@
 
 # Projects
 
+- project: Weegloo
+  id: weegloo
+  #cover: images/hyperfuncs.png
+  #url: https://hyperfuncs.m2s.team
+  #youtube: https://www.youtube.com/embed/bt6bF2gQOlk
+  corp: SNOW Corp.
+  duration: Sep, 2025 - Now
+  workers: "Backend:2(me), Frontend:1, Design: 1"
+  position: Project Manager, Project Owner, Planning, Architecting, Backend/Server
+  description: *Embargo
+  role: As a team leader, project manager, planning, and backend development are all. Except for FE development
+  #skills: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, Docker, RabbitMQ, InfluxDB(TSDB)
+
 - project: Hyperfuncs
   id: hyperfuncs
   cover: images/hyperfuncs.png
   url: https://hyperfuncs.m2s.team
   youtube: https://www.youtube.com/embed/bt6bF2gQOlk
   corp: NAVERZ Corp.
-  duration: May, 2023 - Now
+  duration: May, 2023 - Dec, 2024
   workers: "Backend:1(me), Frontend:3, Planning:1, Design: 1"
   position: Project Manager(100%), Project Owner(100%), Planning(70%), Architecting(100%), Backend/Server(99%)
   description: Hyperfuncs is a platform that can easily build stable API server without professional server developer. With only few codes, you can create a powerful service server. Also You can use visualized composers and easy to check the all data flow.
