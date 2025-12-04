@@ -1,9 +1,17 @@
 # Jobs
+
+- company: SNOW corp.
+  ci: ./corp/snow.png
+  url: https://snowcorp.com
+  position: Team Developer
+  duration:  Sep, 2025  &mdash; Now
+  summary: I moved our corporate entity to the parent company of NAVER Z in order to develop a new service that is not ZEPETO.
+
   
 - company: NAVERZ
   ci: ./corp/naverz.jpg
   position: Team Lead
-  duration:  May, 2020  &mdash; Now
+  duration:  May, 2020  &mdash; Aug, 2025
   summary: Our team <a href="https://www.sedaily.com/NewsVIew/1Z2MCCEA9A" target="_blank">spun off</a> from the company SNOW.
   
   
