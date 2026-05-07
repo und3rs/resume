@@ -4,15 +4,15 @@
 - project: Weegloo
   id: weegloo
   #cover: images/hyperfuncs.png
-  #url: https://hyperfuncs.m2s.team
-  #youtube: https://www.youtube.com/embed/bt6bF2gQOlk
+  url: https://weegloo.com
+  youtube: https://www.youtube.com/watch?v=yibAv14PZuc
   corp: SNOW Corp.
-  duration: Sep, 2025 - Now
-  workers: "Backend:2(me), Frontend:1, Design: 1"
-  position: Project Manager, Project Owner, Planning, Architecting, Backend/Server
-  description: *Embargo
-  role: As a team leader, project manager, planning, and backend development are all. Except for FE development
-  #skills: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, Docker, RabbitMQ, InfluxDB(TSDB)
+  duration: Oct, 2025 - Now
+  workers: "Backend:2, Frontend:1"
+  position: Project Manager, Project Owner, Planning, Architecting, Backend/Server, Frontend/Web
+  description: Professional AI-powered Headless CMS service in SaaS form.
+  role: team leader, project manager, planning, backend development and frontend development.
+  skills: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, Docker, React
 
 - project: Hyperfuncs
   id: hyperfuncs
